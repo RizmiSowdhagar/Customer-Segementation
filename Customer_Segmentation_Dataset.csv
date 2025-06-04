@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,MaritalStatus,Education,Occupation,AnnualIncome,SpendingScore,MembershipStatus,OnlineActivityScore,TenureYears,PreferredChannel,FrequencyOfPurchase,AvgTransactionValue,Region,LoyaltyScore,ProductCategory,CouponUsageRate,SatisfactionRating
+CUST0001,56,Other,Single,None,Unemployed,117638,74,Silver,4,4.8,In-store,1,61.88,North,5,Books,0.53,5
+CUST0002,69,Other,Widowed,Master's,Unemployed,27226,39,None,89,5.1,In-store,19,908.74,West,27,Books,0.53,3
+CUST0003,46,Other,Married,None,Retired,108405,15,None,10,6.0,Both,33,724.05,East,28,Books,0.96,5
+CUST0004,32,Male,Married,PhD,Unemployed,37588,71,Gold,70,0.6,Online,4,680.34,Central,26,Groceries,0.32,3
+CUST0005,60,Other,Divorced,High School,Retired,52019,29,Gold,55,9.5,Online,42,527.35,East,91,Groceries,0.48,2
+CUST0006,25,Male,Married,None,Self-employed,80133,3,None,9,3.8,Online,3,784.13,North,49,Books,0.81,5
+CUST0007,38,Female,Married,None,Professional,129444,83,None,33,3.2,Both,27,164.09,North,21,Beauty,0.76,2
+CUST0008,56,Other,Divorced,High School,Unemployed,132603,10,Platinum,66,19.8,Both,41,398.02,South,1,Home & Living,0.27,2
+CUST0009,36,Male,Married,Master's,Professional,143585,92,Gold,71,6.7,Online,35,495.1,Central,92,Electronics,0.15,2
+CUST0010,40,Male,Married,High School,Professional,58395,29,Gold,30,0.6,Online,28,119.31,South,58,Beauty,0.7,2
+CUST0011,28,Other,Married,None,Professional,140814,79,Silver,74,7.1,In-store,6,425.32,East,79,Clothing,0.26,1
+CUST0012,28,Female,Married,Master's,Self-employed,127599,35,Platinum,70,0.5,Both,6,323.34,West,55,Groceries,0.92,4
+CUST0013,41,Female,Divorced,Master's,Student,40939,6,None,65,0.1,Both,44,45.23,South,81,Home & Living,0.13,1
+CUST0014,53,Female,Married,High School,Unemployed,15203,12,Platinum,69,2.6,Online,23,145.37,North,26,Home & Living,0.32,3
+CUST0015,57,Male,Married,None,Student,44063,38,None,40,25.2,Online,33,766.4,Central,84,Clothing,0.05,3
+CUST0016,41,Male,Divorced,PhD,Student,105880,77,None,62,1.0,Both,16,27.86,East,25,Clothing,0.7,4
+CUST0017,20,Male,Widowed,None,Student,18748,93,Platinum,31,5.6,In-store,24,934.91,North,77,Home & Living,0.89,4
+CUST0018,39,Male,Single,Bachelor's,Professional,132269,19,Gold,19,1.0,Online,5,95.56,West,33,Clothing,0.64,4
+CUST0019,19,Female,Widowed,PhD,Retired,95764,67,None,56,6.5,Both,41,801.25,Central,89,Home & Living,0.94,2
+CUST0020,41,Other,Divorced,Master's,Professional,123036,8,Platinum,97,3.5,Both,42,899.63,West,72,Beauty,0.13,1
+CUST0021,61,Male,Single,PhD,Professional,131525,8,Silver,49,5.7,In-store,13,941.72,West,69,Clothing,0.09,3
+CUST0022,47,Male,Divorced,Master's,Student,100679,84,Platinum,79,1.1,In-store,47,868.8,Central,6,Beauty,0.84,1
+CUST0023,55,Female,Divorced,Master's,Professional,140829,47,Silver,24,6.8,Online,12,294.67,Central,23,Beauty,0.86,1
+CUST0024,19,Other,Married,PhD,Student,143216,4,None,11,27.2,Online,5,339.76,West,30,Clothing,0.83,1
+CUST0025,38,Other,Single,Master's,Retired,148175,51,Platinum,70,5.5,Online,37,432.28,East,78,Home & Living,0.8,4
+CUST0026,50,Female,Married,Master's,Unemployed,80901,85,Platinum,38,3.4,Both,31,147.9,Central,54,Books,0.36,4
+CUST0027,29,Female,Single,Bachelor's,Student,113046,67,Silver,16,12.8,Online,28,32.05,North,87,Home & Living,0.22,3
+CUST0028,39,Other,Divorced,None,Retired,105012,45,Platinum,44,0.1,Both,28,870.43,South,11,Electronics,0.93,3
+CUST0029,61,Male,Divorced,None,Unemployed,93278,8,Platinum,10,6.5,Online,30,558.59,East,31,Clothing,0.31,3
+CUST0030,42,Other,Widowed,Bachelor's,Self-employed,27391,87,None,69,11.0,In-store,18,612.64,Central,6,Groceries,0.4,1
+CUST0031,66,Female,Single,PhD,Student,117476,16,Platinum,22,0.3,In-store,44,927.72,Central,11,Clothing,0.7,4
+CUST0032,44,Male,Married,High School,Student,135721,77,Gold,90,3.0,Both,27,668.47,East,77,Electronics,0.29,2
+CUST0033,59,Male,Widowed,High School,Self-employed,112537,67,Silver,69,1.1,In-store,35,693.94,South,12,Beauty,0.82,1
+CUST0034,45,Female,Widowed,High School,Self-employed,96159,9,Platinum,37,4.2,Both,26,789.1,West,66,Groceries,0.07,5
+CUST0035,33,Female,Widowed,Bachelor's,Student,146040,60,Silver,1,5.2,Both,39,125.18,North,53,Groceries,0.79,1
+CUST0036,32,Female,Married,Bachelor's,Self-employed,50503,78,Silver,85,1.8,In-store,49,366.56,Central,99,Home & Living,0.6,4
+CUST0037,64,Other,Widowed,Master's,Professional,90403,77,Silver,83,3.1,Both,18,968.53,South,36,Books,0.57,5
+CUST0038,68,Other,Married,High School,Unemployed,79286,71,Platinum,88,1.6,In-store,33,923.7,North,17,Home & Living,0.46,1
+CUST0039,61,Male,Widowed,PhD,Unemployed,89842,15,Platinum,78,2.3,Online,25,885.23,East,28,Groceries,0.28,4
+CUST0040,69,Female,Married,PhD,Unemployed,119927,71,Silver,92,0.9,Online,31,457.57,Central,92,Groceries,0.46,4
+CUST0041,20,Male,Divorced,High School,Professional,29908,98,Gold,71,10.8,In-store,37,858.62,West,22,Books,0.45,2
+CUST0042,54,Male,Divorced,High School,Self-employed,52228,41,Silver,36,0.1,In-store,2,57.91,East,7,Clothing,0.58,1
+CUST0043,68,Male,Divorced,High School,Retired,38386,22,Gold,48,10.7,In-store,33,157.03,Central,15,Books,0.28,4
+CUST0044,24,Male,Divorced,Bachelor's,Self-employed,43302,24,Silver,51,4.2,In-store,39,419.83,South,96,Beauty,0.08,3
+CUST0045,38,Female,Divorced,Bachelor's,Student,75815,44,None,32,2.0,Online,43,488.56,North,11,Home & Living,0.15,4
+CUST0046,26,Male,Widowed,Bachelor's,Unemployed,78344,1,Silver,21,6.4,Both,43,270.87,North,24,Clothing,0.7,2
+CUST0047,56,Female,Widowed,None,Self-employed,126603,10,Silver,4,3.5,Both,32,362.91,Central,67,Home & Living,0.02,4
+CUST0048,35,Female,Widowed,PhD,Retired,76114,80,Platinum,17,3.5,Online,18,171.15,East,30,Books,0.86,1
+CUST0049,21,Other,Married,PhD,Student,40525,72,Gold,37,0.6,Both,17,494.24,West,70,Clothing,0.69,1
+CUST0050,42,Female,Married,Master's,Professional,94818,56,None,36,2.5,Online,34,795.9,South,66,Books,0.77,5
+CUST0051,31,Other,Married,Bachelor's,Professional,129589,89,Gold,93,1.4,Both,39,664.75,Central,61,Beauty,0.84,1
+CUST0052,67,Female,Married,None,Retired,109715,50,None,94,0.1,In-store,7,116.71,South,78,Electronics,0.12,5
+CUST0053,26,Female,Divorced,None,Student,21644,12,Silver,63,2.2,In-store,42,492.71,North,41,Groceries,0.82,3
+CUST0054,43,Female,Divorced,PhD,Unemployed,116154,89,Platinum,9,0.5,In-store,35,700.67,West,82,Clothing,0.5,2
+CUST0055,19,Other,Divorced,Bachelor's,Self-employed,58469,81,Platinum,78,1.5,Online,30,534.6,South,51,Groceries,0.89,3
+CUST0056,37,Other,Single,Master's,Student,121609,60,Gold,41,0.5,Online,12,397.76,Central,44,Electronics,0.89,5
+CUST0057,45,Male,Widowed,Bachelor's,Professional,80206,26,Platinum,47,0.5,Both,35,625.7,West,95,Clothing,0.02,4
+CUST0058,64,Other,Married,High School,Retired,111462,78,Gold,43,1.1,Both,11,968.95,East,13,Groceries,0.38,4
+CUST0059,24,Other,Married,Bachelor's,Retired,98178,41,Gold,81,44.0,Both,44,103.96,Central,90,Groceries,0.53,3
+CUST0060,61,Other,Divorced,High School,Self-employed,101724,36,None,86,0.0,Online,4,396.12,South,12,Clothing,0.68,4
+CUST0061,25,Other,Married,High School,Retired,111393,23,Gold,96,5.1,Both,25,412.54,West,82,Groceries,0.29,5
+CUST0062,64,Male,Married,Master's,Retired,142314,43,None,15,0.8,In-store,48,581.2,Central,9,Groceries,0.25,2
+CUST0063,52,Other,Widowed,PhD,Student,91312,6,Platinum,53,12.7,Both,32,160.65,West,85,Clothing,0.38,1
+CUST0064,31,Female,Divorced,Bachelor's,Unemployed,90324,69,Gold,34,0.5,In-store,20,184.88,West,48,Groceries,0.5,5
+CUST0065,34,Female,Widowed,High School,Self-employed,86196,43,Gold,97,15.5,Online,31,292.51,West,49,Groceries,0.95,5
+CUST0066,53,Other,Single,Bachelor's,Student,85014,25,Silver,27,4.7,In-store,4,956.31,South,53,Home & Living,0.76,1
+CUST0067,67,Other,Single,PhD,Unemployed,48340,18,Gold,1,0.0,In-store,38,736.77,Central,56,Beauty,0.43,1
+CUST0068,57,Female,Single,PhD,Student,54850,62,Gold,93,11.2,In-store,47,665.08,North,40,Home & Living,0.05,2
+CUST0069,21,Female,Divorced,None,Student,128711,13,Silver,12,3.7,Online,1,818.79,North,24,Electronics,0.17,2
+CUST0070,19,Male,Married,PhD,Retired,26094,43,Silver,40,1.5,Online,3,136.3,South,98,Home & Living,0.46,2
+CUST0071,23,Female,Divorced,Master's,Unemployed,102959,78,Platinum,79,7.3,Online,37,860.74,South,72,Home & Living,0.81,4
+CUST0072,59,Female,Divorced,High School,Self-employed,20741,28,Gold,58,13.1,Online,22,598.88,West,33,Electronics,0.38,5
+CUST0073,21,Other,Married,None,Self-employed,126585,18,Platinum,68,3.3,Both,17,341.98,Central,23,Groceries,0.54,1
+CUST0074,46,Female,Widowed,Master's,Unemployed,137564,59,Platinum,91,1.9,Online,14,817.7,Central,77,Groceries,0.89,5
+CUST0075,35,Male,Single,Bachelor's,Retired,83798,60,Silver,52,7.8,In-store,41,804.54,East,54,Home & Living,0.91,5
+CUST0076,43,Female,Widowed,High School,Professional,131026,63,None,44,5.7,Online,35,847.25,East,53,Electronics,0.22,2
+CUST0077,61,Other,Single,PhD,Student,125130,57,Platinum,19,11.0,Both,13,124.36,North,49,Groceries,0.04,2
+CUST0078,51,Other,Divorced,High School,Retired,37164,92,None,23,5.9,Both,35,969.67,East,78,Books,0.31,5
+CUST0079,27,Female,Single,Bachelor's,Unemployed,45257,51,Gold,60,1.4,Both,43,960.03,East,78,Clothing,0.7,2
+CUST0080,53,Other,Divorced,None,Student,110989,56,Silver,90,13.4,In-store,2,363.89,North,80,Clothing,0.95,4
+CUST0081,31,Male,Widowed,None,Self-employed,67691,27,Gold,93,0.6,Online,47,75.24,North,49,Beauty,0.08,1
+CUST0082,48,Male,Divorced,None,Professional,94768,32,Gold,57,1.6,Online,13,175.39,East,60,Clothing,0.03,5
+CUST0083,65,Female,Widowed,PhD,Self-employed,29026,9,Silver,26,3.7,Online,16,992.9,Central,90,Home & Living,0.88,1
+CUST0084,32,Female,Married,Master's,Unemployed,45908,96,Gold,25,4.2,In-store,18,567.38,East,90,Clothing,0.75,4
+CUST0085,25,Female,Married,Master's,Student,34610,84,Silver,6,0.1,In-store,7,363.06,West,65,Clothing,0.99,2
+CUST0086,31,Other,Married,High School,Unemployed,78185,92,None,41,7.6,Both,45,295.32,West,32,Books,0.4,3
+CUST0087,40,Male,Divorced,PhD,Student,87567,97,Gold,46,2.2,Both,36,264.42,West,79,Groceries,0.42,4
+CUST0088,57,Male,Married,None,Retired,51182,68,Silver,52,2.6,Online,41,667.51,South,21,Books,0.17,3
+CUST0089,38,Other,Single,None,Professional,131136,46,Platinum,58,8.3,In-store,30,425.19,West,18,Home & Living,0.12,1
+CUST0090,33,Male,Widowed,Bachelor's,Retired,146642,98,Gold,37,2.4,In-store,42,965.76,Central,94,Clothing,0.58,5
+CUST0091,62,Female,Widowed,Bachelor's,Retired,34288,67,None,68,0.2,Online,41,687.0,South,60,Groceries,0.36,2
+CUST0092,35,Female,Single,None,Unemployed,93824,26,Silver,86,1.0,Online,7,794.12,South,13,Beauty,0.08,4
+CUST0093,64,Female,Divorced,None,Professional,99425,8,Gold,91,15.6,Both,15,299.81,West,24,Beauty,0.89,2
+CUST0094,41,Male,Divorced,PhD,Student,15917,6,Gold,97,0.4,Both,40,88.39,East,30,Clothing,0.2,3
+CUST0095,43,Female,Widowed,Master's,Student,90602,80,Gold,52,2.2,Both,19,492.94,North,2,Clothing,0.75,3
+CUST0096,42,Other,Married,Bachelor's,Self-employed,79575,24,None,14,3.5,Online,43,321.44,East,83,Beauty,0.28,5
+CUST0097,62,Other,Divorced,Master's,Student,87518,48,Silver,95,3.4,Online,37,210.06,East,25,Beauty,0.81,3
+CUST0098,58,Male,Divorced,PhD,Unemployed,54104,94,Platinum,25,0.0,Both,2,953.12,South,50,Home & Living,0.12,5
+CUST0099,46,Other,Single,None,Retired,31999,45,Platinum,47,3.5,Both,42,449.55,South,14,Clothing,0.76,4
+CUST0100,32,Other,Single,Master's,Retired,76169,13,Platinum,94,2.4,In-store,48,182.96,South,6,Beauty,0.1,5
+CUST0101,62,Male,Married,None,Retired,144744,69,Silver,18,17.9,In-store,13,206.66,Central,76,Electronics,0.45,3
+CUST0102,18,Female,Divorced,None,Professional,125684,25,Platinum,8,0.9,Both,40,287.9,Central,84,Beauty,0.73,1
+CUST0103,42,Female,Divorced,High School,Student,74821,20,None,63,2.2,Both,41,999.32,North,87,Groceries,0.17,5
+CUST0104,24,Female,Single,Master's,Unemployed,27192,82,Silver,92,2.7,In-store,43,275.33,South,30,Groceries,0.29,2
+CUST0105,26,Male,Divorced,Master's,Professional,89102,82,Gold,53,2.5,Both,43,335.51,West,30,Electronics,0.86,1
+CUST0106,41,Other,Widowed,None,Self-employed,129894,66,None,50,5.5,In-store,31,662.73,South,38,Home & Living,0.89,5
+CUST0107,18,Female,Single,PhD,Unemployed,101795,74,Gold,38,1.2,In-store,16,301.02,Central,58,Clothing,0.04,2
+CUST0108,61,Female,Married,High School,Unemployed,81677,45,Platinum,3,1.2,In-store,42,223.65,South,94,Clothing,0.17,1
+CUST0109,25,Male,Single,None,Unemployed,149327,47,None,2,6.5,Online,44,167.05,Central,41,Beauty,0.12,5
+CUST0110,41,Female,Divorced,Bachelor's,Retired,117412,63,Silver,63,3.5,Online,6,319.56,South,94,Groceries,0.18,4
+CUST0111,28,Male,Married,Bachelor's,Unemployed,34404,76,None,28,2.7,Both,28,114.86,West,57,Home & Living,0.97,2
+CUST0112,68,Other,Single,High School,Student,131545,77,Gold,10,0.9,In-store,32,28.46,North,36,Home & Living,0.55,4
+CUST0113,34,Male,Widowed,PhD,Unemployed,38989,55,Silver,96,1.0,Online,44,806.6,West,64,Home & Living,0.47,3
+CUST0114,25,Male,Widowed,None,Retired,123106,75,None,57,0.1,Both,10,146.52,Central,98,Beauty,0.98,5
+CUST0115,52,Male,Single,Master's,Unemployed,39519,19,None,74,0.5,Both,18,778.22,East,16,Clothing,0.56,5
+CUST0116,52,Male,Widowed,High School,Self-employed,37439,35,None,26,4.1,Both,4,799.57,West,88,Home & Living,0.66,2
+CUST0117,50,Other,Widowed,PhD,Self-employed,133570,53,None,96,11.1,Both,9,542.54,South,78,Beauty,0.33,5
+CUST0118,22,Other,Widowed,Master's,Retired,29995,26,Silver,20,1.7,Both,7,316.59,North,90,Beauty,0.38,3
+CUST0119,59,Female,Married,Bachelor's,Student,38559,14,Gold,38,2.0,In-store,8,153.58,South,72,Electronics,0.59,5
+CUST0120,56,Other,Widowed,Bachelor's,Student,104049,45,None,94,0.6,Both,43,739.44,South,14,Books,0.07,1
+CUST0121,58,Other,Widowed,Master's,Professional,113000,44,Silver,45,2.5,In-store,7,605.37,West,31,Home & Living,0.26,4
+CUST0122,45,Female,Widowed,High School,Retired,54350,88,Gold,65,0.2,Online,41,658.9,North,66,Books,0.2,3
+CUST0123,24,Other,Married,Bachelor's,Unemployed,40517,65,None,90,12.5,Both,40,18.58,East,68,Clothing,0.02,3
+CUST0124,26,Male,Single,None,Retired,104132,51,Gold,35,5.6,Online,3,928.24,South,65,Beauty,0.54,4
+CUST0125,25,Male,Divorced,Master's,Professional,74546,43,Gold,74,23.4,In-store,17,75.63,North,55,Home & Living,0.56,4
+CUST0126,29,Female,Widowed,Master's,Retired,120686,86,Silver,81,10.7,In-store,2,373.14,East,84,Groceries,0.38,3
+CUST0127,51,Female,Single,Bachelor's,Retired,103151,23,Gold,64,3.2,Online,15,408.68,South,78,Clothing,0.27,4
+CUST0128,50,Female,Widowed,High School,Professional,18327,56,Silver,62,3.7,Both,46,11.34,North,40,Electronics,0.65,2
+CUST0129,65,Male,Married,None,Student,135318,19,None,98,1.1,Both,29,502.12,West,25,Electronics,0.13,4
+CUST0130,40,Other,Single,High School,Unemployed,130945,82,Gold,34,3.1,Online,48,755.28,South,25,Books,0.52,1
+CUST0131,41,Male,Married,PhD,Professional,61830,76,Gold,30,11.7,Online,22,825.04,South,3,Beauty,0.77,1
+CUST0132,54,Female,Widowed,PhD,Self-employed,67446,55,Platinum,27,0.3,Online,4,880.6,North,69,Books,0.16,2
+CUST0133,52,Other,Widowed,Bachelor's,Student,84341,92,None,0,10.0,Both,6,492.84,South,26,Groceries,0.75,4
+CUST0134,61,Other,Married,Bachelor's,Self-employed,46085,92,None,24,2.1,Both,38,634.33,East,40,Groceries,0.76,1
+CUST0135,57,Male,Divorced,Bachelor's,Student,70571,60,Platinum,42,11.5,Both,26,88.72,South,38,Electronics,0.06,5
+CUST0136,39,Female,Married,PhD,Unemployed,143308,59,Platinum,83,14.1,Online,11,493.16,Central,38,Home & Living,0.02,4
+CUST0137,44,Male,Widowed,High School,Unemployed,20750,33,Silver,66,5.6,Both,26,163.27,East,68,Electronics,0.97,2
+CUST0138,52,Other,Married,High School,Retired,128931,19,Silver,62,5.5,In-store,17,375.95,North,7,Electronics,0.19,4
+CUST0139,18,Male,Divorced,Bachelor's,Self-employed,93768,28,Gold,50,3.0,Online,24,336.01,East,94,Groceries,0.82,3
+CUST0140,52,Male,Married,None,Student,50903,52,Gold,1,9.0,Both,28,429.31,Central,30,Books,0.56,3
+CUST0141,54,Female,Divorced,High School,Unemployed,106036,49,Gold,81,16.3,Online,35,575.92,Central,19,Groceries,0.26,1
+CUST0142,64,Female,Divorced,PhD,Professional,102954,37,Gold,63,7.5,In-store,31,903.85,South,35,Beauty,0.13,3
+CUST0143,31,Other,Married,Master's,Unemployed,98014,26,Silver,73,4.9,In-store,13,400.54,South,33,Groceries,0.5,2
+CUST0144,20,Male,Married,Master's,Professional,132305,99,None,68,4.7,Online,35,981.32,West,33,Groceries,0.41,1
+CUST0145,18,Male,Single,Master's,Student,47101,98,Gold,8,9.5,Online,16,761.44,East,78,Electronics,0.7,2
+CUST0146,22,Male,Widowed,None,Unemployed,17775,99,None,1,3.9,In-store,15,516.37,West,38,Home & Living,0.9,2
+CUST0147,43,Other,Divorced,Bachelor's,Unemployed,126497,40,Gold,33,8.1,Online,43,647.59,Central,10,Electronics,0.81,3
+CUST0148,31,Other,Single,PhD,Student,60619,80,Platinum,59,3.6,In-store,18,111.2,South,57,Clothing,0.27,3
+CUST0149,56,Female,Married,None,Unemployed,72124,38,Gold,60,0.3,In-store,47,846.08,South,28,Groceries,0.88,2
+CUST0150,44,Female,Widowed,PhD,Professional,80149,77,Gold,30,2.4,Both,37,586.53,South,78,Groceries,0.83,3
+CUST0151,26,Female,Single,PhD,Unemployed,41616,87,Gold,9,2.9,Online,48,986.21,North,100,Clothing,0.93,3
+CUST0152,32,Male,Divorced,Bachelor's,Self-employed,76799,54,Silver,75,0.8,Online,48,640.06,Central,38,Groceries,0.46,3
+CUST0153,32,Male,Single,Master's,Retired,105221,22,Platinum,35,0.5,Both,49,835.77,South,16,Groceries,0.77,4
+CUST0154,43,Female,Divorced,Bachelor's,Professional,129879,16,Gold,84,3.8,In-store,41,801.77,Central,21,Beauty,0.59,2
+CUST0155,59,Male,Married,None,Self-employed,40479,28,Gold,48,0.4,Online,27,352.01,South,92,Groceries,0.31,5
+CUST0156,30,Female,Widowed,None,Student,114165,35,None,69,1.8,Both,35,267.01,East,97,Clothing,0.99,2
+CUST0157,68,Other,Widowed,None,Professional,70863,60,Platinum,48,6.8,Both,45,436.19,Central,6,Electronics,0.04,1
+CUST0158,49,Female,Widowed,Bachelor's,Retired,97569,45,Gold,2,16.7,Online,35,472.57,West,41,Groceries,0.16,3
+CUST0159,56,Other,Married,PhD,Retired,31351,46,None,73,6.3,Both,28,247.68,North,15,Home & Living,0.89,3
+CUST0160,66,Male,Divorced,PhD,Student,59825,72,None,4,24.5,In-store,39,895.65,West,3,Clothing,0.06,5
+CUST0161,69,Female,Married,High School,Student,26349,55,Silver,89,6.0,Both,38,547.12,Central,43,Books,0.89,1
+CUST0162,49,Male,Widowed,None,Professional,59254,86,None,60,1.7,In-store,9,978.66,South,47,Beauty,0.72,4
+CUST0163,21,Other,Married,PhD,Unemployed,53225,85,Gold,84,5.6,In-store,12,811.92,Central,99,Clothing,0.04,2
+CUST0164,47,Other,Married,High School,Student,27453,26,Silver,89,6.1,Online,15,560.15,North,14,Electronics,0.43,4
+CUST0165,54,Other,Married,PhD,Unemployed,92694,85,Silver,25,2.3,Both,21,947.57,Central,66,Clothing,0.75,1
+CUST0166,40,Male,Divorced,None,Self-employed,30735,25,Gold,71,0.1,In-store,35,509.83,South,29,Books,0.58,5
+CUST0167,56,Male,Single,Master's,Retired,62893,65,Platinum,4,6.1,In-store,42,888.24,West,4,Beauty,0.94,1
+CUST0168,62,Male,Single,None,Unemployed,142006,6,None,14,0.1,Both,33,364.56,East,26,Home & Living,0.87,5
+CUST0169,32,Male,Married,Bachelor's,Retired,60066,23,Silver,15,5.0,In-store,19,384.86,West,12,Books,0.33,4
+CUST0170,60,Other,Single,PhD,Unemployed,149445,64,Platinum,0,0.9,Both,23,423.95,South,2,Clothing,0.08,4
+CUST0171,46,Other,Single,PhD,Self-employed,25692,87,Gold,15,4.2,Online,13,551.16,South,17,Books,0.94,1
+CUST0172,53,Female,Married,Bachelor's,Student,60541,43,None,36,3.5,In-store,44,557.96,North,35,Clothing,0.52,1
+CUST0173,30,Female,Married,Bachelor's,Self-employed,81983,23,None,2,0.1,In-store,1,501.43,Central,10,Home & Living,0.07,3
+CUST0174,49,Male,Widowed,Master's,Student,135747,96,Silver,51,2.3,Both,29,312.94,Central,86,Home & Living,0.82,5
+CUST0175,24,Other,Single,PhD,Student,100103,30,None,46,4.6,Both,24,927.93,West,43,Electronics,0.87,3
+CUST0176,68,Other,Divorced,PhD,Retired,40566,77,None,94,9.4,Both,16,592.7,East,21,Home & Living,0.64,2
+CUST0177,39,Other,Married,Master's,Self-employed,88193,18,None,12,11.0,Both,25,413.66,East,15,Groceries,0.45,2
+CUST0178,45,Female,Widowed,High School,Unemployed,136015,87,None,79,3.3,In-store,23,654.67,North,35,Books,0.66,1
+CUST0179,19,Female,Divorced,Master's,Self-employed,145956,79,Gold,54,6.5,Online,28,770.29,South,85,Books,0.71,4
+CUST0180,59,Other,Single,None,Retired,85744,97,Platinum,20,1.9,Online,47,961.12,North,85,Clothing,0.89,2
+CUST0181,62,Other,Widowed,PhD,Student,48455,21,Gold,65,2.1,Online,16,504.55,Central,85,Home & Living,0.96,2
+CUST0182,23,Other,Married,Bachelor's,Retired,69219,57,Gold,53,1.1,Online,43,120.98,South,60,Electronics,0.51,3
+CUST0183,45,Female,Divorced,None,Professional,60991,23,Silver,26,4.1,Both,38,446.36,North,44,Electronics,0.8,3
+CUST0184,45,Other,Married,PhD,Professional,88616,91,None,37,1.9,In-store,11,484.18,West,96,Electronics,0.96,2
+CUST0185,61,Other,Single,Master's,Unemployed,102438,45,Gold,89,0.4,In-store,3,898.02,Central,5,Beauty,0.15,1
+CUST0186,61,Male,Divorced,None,Retired,131841,44,None,57,5.8,In-store,15,400.85,East,73,Groceries,0.02,3
+CUST0187,37,Male,Single,PhD,Unemployed,73870,82,Gold,61,6.2,Both,1,953.79,North,18,Home & Living,0.87,2
+CUST0188,47,Female,Single,High School,Unemployed,101694,88,Gold,45,2.2,In-store,7,490.28,Central,21,Electronics,0.2,4
+CUST0189,28,Other,Widowed,High School,Professional,58856,47,Silver,88,0.4,Both,1,974.04,Central,72,Groceries,0.04,3
+CUST0190,45,Other,Married,Bachelor's,Unemployed,116407,40,Platinum,10,2.8,In-store,49,18.12,East,98,Books,0.16,2
+CUST0191,42,Male,Divorced,PhD,Professional,46379,51,Platinum,71,2.9,Online,32,899.83,East,74,Clothing,0.38,5
+CUST0192,56,Female,Single,High School,Student,79729,42,Gold,7,5.5,Both,9,931.81,East,51,Home & Living,0.22,3
+CUST0193,50,Male,Single,Master's,Retired,69353,7,Silver,96,1.9,In-store,29,961.41,North,41,Home & Living,0.31,5
+CUST0194,18,Male,Divorced,PhD,Unemployed,29031,50,None,70,5.7,Online,26,22.95,East,24,Beauty,0.98,3
+CUST0195,44,Male,Single,Master's,Professional,80982,48,None,63,10.3,Online,23,179.98,West,24,Books,0.7,3
+CUST0196,69,Male,Widowed,Master's,Self-employed,51683,84,Gold,20,1.4,Online,45,657.23,Central,96,Home & Living,0.71,5
+CUST0197,30,Other,Widowed,High School,Unemployed,129091,91,Platinum,71,19.3,Both,43,35.22,East,97,Beauty,0.09,1
+CUST0198,58,Other,Widowed,PhD,Student,132797,6,Silver,62,2.4,Both,29,72.97,Central,38,Beauty,0.73,2
+CUST0199,20,Male,Widowed,None,Student,21587,91,Platinum,84,1.6,In-store,38,228.87,South,44,Beauty,0.74,1
+CUST0200,56,Female,Single,High School,Self-employed,77790,9,None,63,2.7,Online,33,517.32,South,57,Home & Living,0.66,1
+CUST0201,23,Female,Divorced,High School,Professional,46480,57,Platinum,19,0.5,In-store,7,550.44,East,59,Home & Living,0.23,2
+CUST0202,25,Female,Divorced,PhD,Unemployed,38569,31,None,7,0.7,In-store,12,43.92,Central,34,Home & Living,0.42,4
+CUST0203,44,Female,Divorced,PhD,Professional,26151,21,Silver,57,2.7,Online,31,178.66,South,75,Groceries,0.85,1
+CUST0204,26,Male,Divorced,Master's,Student,59739,90,Silver,45,7.2,In-store,32,504.71,East,95,Beauty,0.67,1
+CUST0205,54,Other,Married,PhD,Professional,47954,40,Gold,30,11.5,Both,20,598.0,Central,82,Groceries,0.73,1
+CUST0206,50,Female,Divorced,Master's,Student,124373,45,Gold,92,5.5,In-store,17,156.92,East,23,Clothing,0.59,4
+CUST0207,68,Male,Married,High School,Professional,49700,77,Platinum,8,0.6,Online,36,404.85,Central,86,Home & Living,0.45,3
+CUST0208,59,Female,Married,Bachelor's,Self-employed,138728,49,Silver,14,5.6,Both,3,905.36,South,43,Books,0.76,5
+CUST0209,61,Female,Widowed,None,Retired,81788,87,Silver,93,5.0,Both,1,998.91,East,82,Electronics,0.07,5
+CUST0210,41,Male,Married,High School,Self-employed,86045,20,Gold,25,8.2,In-store,27,987.34,South,40,Clothing,0.67,4
+CUST0211,32,Other,Single,PhD,Self-employed,142992,92,None,9,8.7,In-store,47,882.86,East,47,Electronics,1.0,1
+CUST0212,49,Other,Married,None,Retired,95059,17,Platinum,28,10.1,Both,40,400.71,North,41,Electronics,0.78,5
+CUST0213,49,Male,Widowed,Bachelor's,Retired,16881,28,Platinum,79,2.7,In-store,33,689.71,South,47,Home & Living,0.29,4
+CUST0214,41,Other,Married,Bachelor's,Unemployed,147702,41,Gold,35,6.0,Online,20,422.43,South,20,Books,0.28,2
+CUST0215,58,Male,Single,Master's,Unemployed,35789,66,Silver,83,1.6,In-store,14,652.04,West,77,Electronics,0.67,5
+CUST0216,69,Male,Single,None,Self-employed,141083,25,Gold,36,36.6,In-store,36,316.34,South,65,Beauty,0.9,2
+CUST0217,66,Male,Single,Master's,Self-employed,103059,58,Gold,85,1.0,Both,5,610.14,Central,68,Electronics,0.58,1
+CUST0218,66,Other,Widowed,High School,Student,61151,41,Gold,70,0.1,In-store,23,528.52,East,24,Clothing,0.53,5
+CUST0219,69,Male,Widowed,None,Student,124388,6,Gold,22,0.8,In-store,45,34.24,North,100,Books,0.16,4
+CUST0220,29,Female,Divorced,High School,Unemployed,18262,75,None,40,7.5,In-store,15,792.8,Central,36,Books,0.72,3
+CUST0221,56,Other,Widowed,Master's,Unemployed,81981,38,None,92,3.0,Online,6,21.78,Central,45,Electronics,0.7,5
+CUST0222,19,Other,Single,None,Student,135951,6,Silver,79,3.0,In-store,33,300.22,Central,2,Books,0.97,5
+CUST0223,20,Other,Single,Master's,Student,138099,45,Gold,27,15.5,Online,19,15.86,Central,28,Clothing,0.3,5
+CUST0224,66,Other,Widowed,None,Professional,96972,75,None,47,12.6,Online,13,382.44,North,26,Clothing,0.76,5
+CUST0225,54,Female,Married,Master's,Professional,90485,14,Silver,37,1.9,Online,29,72.53,West,23,Clothing,0.43,4
+CUST0226,66,Other,Widowed,Bachelor's,Student,69722,66,Gold,30,1.2,Online,6,914.38,South,79,Beauty,0.56,4
+CUST0227,34,Other,Widowed,Master's,Professional,104499,40,Platinum,13,9.4,Both,15,421.52,Central,36,Home & Living,0.82,3
+CUST0228,66,Male,Single,Bachelor's,Retired,21901,3,None,96,11.8,Online,16,464.9,South,91,Electronics,0.22,4
+CUST0229,19,Other,Divorced,Master's,Unemployed,132473,99,Silver,72,3.9,In-store,24,356.35,South,6,Books,0.34,4
+CUST0230,19,Female,Single,None,Unemployed,23597,97,Platinum,90,5.0,Online,23,631.23,Central,35,Clothing,0.77,1
+CUST0231,45,Female,Divorced,None,Student,144631,24,Gold,87,1.5,In-store,48,786.56,West,38,Electronics,0.57,1
+CUST0232,40,Female,Single,None,Self-employed,78909,19,Gold,76,8.1,Online,10,651.67,South,35,Electronics,0.09,2
+CUST0233,54,Female,Widowed,PhD,Student,87391,18,Gold,89,5.0,Both,41,750.73,East,100,Home & Living,0.43,3
+CUST0234,49,Other,Single,High School,Professional,78293,64,None,28,3.5,Online,41,906.91,South,74,Beauty,0.59,1
+CUST0235,50,Other,Single,None,Self-employed,26874,88,Silver,50,0.3,Online,49,864.91,Central,94,Books,0.91,3
+CUST0236,18,Female,Single,Bachelor's,Professional,101402,35,Platinum,48,12.4,Both,17,677.32,North,53,Beauty,0.19,3
+CUST0237,36,Female,Widowed,None,Retired,29079,62,Silver,42,4.8,Online,49,222.49,South,38,Books,0.81,5
+CUST0238,19,Other,Widowed,PhD,Professional,87779,1,None,91,1.1,In-store,44,641.33,West,93,Clothing,0.13,3
+CUST0239,61,Female,Widowed,Bachelor's,Retired,110408,100,Silver,91,4.7,Online,45,511.02,East,59,Clothing,0.24,5
+CUST0240,43,Male,Widowed,PhD,Retired,135606,25,None,71,5.7,Online,30,720.05,East,43,Electronics,0.24,2
+CUST0241,49,Female,Divorced,Bachelor's,Professional,135062,45,Gold,86,3.7,Online,44,834.6,North,4,Books,0.88,2
+CUST0242,23,Female,Divorced,Master's,Professional,27100,49,Platinum,92,6.3,Both,46,745.29,North,5,Books,0.2,2
+CUST0243,49,Male,Married,High School,Retired,72021,98,Gold,4,4.4,Online,10,848.1,South,68,Beauty,0.79,5
+CUST0244,21,Male,Widowed,High School,Self-employed,143126,89,Silver,41,14.8,Online,19,73.23,Central,100,Clothing,0.46,5
+CUST0245,28,Other,Divorced,PhD,Retired,107446,16,Gold,6,0.3,In-store,29,41.3,West,45,Groceries,1.0,2
+CUST0246,34,Other,Single,High School,Unemployed,44437,98,Platinum,41,0.6,Online,2,265.92,East,80,Electronics,0.84,5
+CUST0247,55,Male,Widowed,PhD,Retired,35862,93,Gold,35,1.0,Online,36,901.66,North,25,Books,0.74,4
+CUST0248,41,Male,Married,PhD,Self-employed,26669,19,Platinum,26,5.9,Online,19,825.42,West,78,Home & Living,0.87,4
+CUST0249,22,Other,Married,PhD,Unemployed,136219,23,Platinum,57,5.2,Online,7,685.9,Central,11,Home & Living,0.63,5
+CUST0250,69,Female,Married,High School,Student,30916,83,Gold,45,11.1,In-store,26,703.75,East,29,Groceries,0.84,5
+CUST0251,51,Male,Single,PhD,Student,25878,25,None,65,6.6,In-store,15,729.4,East,34,Clothing,0.26,1
+CUST0252,23,Other,Divorced,High School,Self-employed,17985,16,Silver,24,3.5,Both,47,943.18,Central,86,Clothing,0.1,1
+CUST0253,39,Female,Single,PhD,Retired,56235,54,None,72,24.0,Online,38,833.87,East,14,Clothing,0.62,3
+CUST0254,28,Male,Widowed,None,Professional,33931,73,None,26,1.5,Both,3,627.16,Central,24,Beauty,0.43,3
+CUST0255,65,Female,Married,PhD,Self-employed,107876,1,Gold,0,9.0,Both,38,669.06,East,59,Home & Living,0.43,3
+CUST0256,33,Other,Single,Bachelor's,Unemployed,15336,42,Silver,86,2.8,Online,16,221.6,South,39,Clothing,0.53,2
+CUST0257,50,Male,Single,PhD,Unemployed,57933,19,Silver,73,5.2,In-store,2,660.75,Central,26,Home & Living,0.36,4
+CUST0258,26,Female,Divorced,Master's,Student,60536,97,None,41,6.5,In-store,31,430.43,West,43,Groceries,0.63,2
+CUST0259,23,Male,Divorced,PhD,Unemployed,84504,34,Gold,51,5.0,Online,28,161.43,South,36,Electronics,0.03,5
+CUST0260,33,Female,Married,Bachelor's,Self-employed,114214,80,Silver,24,0.8,Online,7,808.34,West,39,Beauty,0.97,1
+CUST0261,46,Other,Single,Bachelor's,Unemployed,128936,55,None,53,2.9,In-store,30,515.14,East,61,Books,0.92,5
+CUST0262,20,Other,Single,High School,Self-employed,31279,18,Silver,66,4.1,Online,43,977.65,West,16,Groceries,0.94,5
+CUST0263,37,Male,Divorced,None,Professional,118751,34,Gold,5,9.5,Online,7,288.86,South,59,Home & Living,0.37,1
+CUST0264,53,Female,Single,PhD,Student,119433,89,Gold,57,2.9,Online,36,485.86,Central,96,Groceries,0.53,5
+CUST0265,36,Male,Single,High School,Unemployed,86386,45,Gold,69,12.6,In-store,29,453.52,North,6,Books,0.95,3
+CUST0266,43,Male,Single,None,Self-employed,101124,6,Silver,52,2.9,Both,24,129.57,West,98,Beauty,0.9,1
+CUST0267,20,Female,Divorced,PhD,Retired,120750,21,Platinum,65,4.0,Both,39,431.85,North,56,Electronics,0.79,5
+CUST0268,36,Female,Married,Master's,Student,92485,70,Silver,57,8.0,Online,4,294.68,West,8,Books,0.41,3
+CUST0269,37,Female,Widowed,PhD,Professional,89055,96,Platinum,81,4.4,In-store,29,168.72,West,94,Beauty,0.56,3
+CUST0270,49,Other,Married,Bachelor's,Self-employed,106911,48,Gold,86,16.1,Online,44,289.33,Central,27,Home & Living,0.79,4
+CUST0271,24,Male,Widowed,Bachelor's,Professional,113618,39,None,1,5.4,In-store,5,240.92,East,71,Books,0.27,3
+CUST0272,69,Male,Single,Master's,Professional,128892,31,Platinum,75,3.7,Online,29,736.73,South,27,Groceries,0.63,2
+CUST0273,58,Other,Married,High School,Unemployed,86128,10,Gold,21,0.1,In-store,30,40.47,South,89,Clothing,0.83,1
+CUST0274,50,Female,Widowed,None,Unemployed,67495,30,Gold,36,2.7,In-store,29,621.29,South,46,Groceries,0.71,1
+CUST0275,57,Other,Divorced,PhD,Self-employed,97806,18,Platinum,19,1.8,Both,26,763.05,East,41,Home & Living,0.48,1
+CUST0276,56,Other,Divorced,Bachelor's,Retired,108185,60,None,23,6.9,Online,19,485.92,North,79,Electronics,0.58,5
+CUST0277,35,Other,Married,High School,Self-employed,64649,88,Gold,83,1.2,Both,26,932.25,South,25,Books,0.99,5
+CUST0278,57,Male,Married,Master's,Retired,110402,73,Platinum,64,1.1,Both,37,710.8,North,86,Electronics,0.6,2
+CUST0279,18,Other,Single,Bachelor's,Professional,45676,95,None,64,1.1,In-store,27,750.44,East,18,Home & Living,0.79,3
+CUST0280,28,Male,Married,Master's,Student,79093,15,None,80,0.7,Online,30,204.96,East,12,Books,0.73,5
+CUST0281,45,Male,Single,PhD,Self-employed,94414,4,Gold,0,1.9,In-store,30,779.52,Central,87,Beauty,0.7,3
+CUST0282,42,Male,Single,None,Self-employed,108095,63,Silver,93,10.9,In-store,3,833.77,South,51,Beauty,0.72,3
+CUST0283,67,Female,Divorced,Bachelor's,Retired,87307,40,Silver,2,7.5,In-store,43,367.65,Central,39,Groceries,0.45,5
+CUST0284,40,Male,Divorced,Bachelor's,Professional,110432,9,Gold,45,6.6,Online,7,221.23,South,89,Groceries,0.47,5
+CUST0285,48,Male,Widowed,PhD,Professional,46923,9,None,54,8.0,Online,49,391.2,East,10,Home & Living,0.47,2
+CUST0286,47,Female,Divorced,High School,Retired,132449,26,Gold,74,1.6,In-store,9,742.21,East,94,Beauty,0.03,4
+CUST0287,59,Male,Divorced,None,Professional,62574,4,Platinum,87,10.9,Online,41,423.46,West,74,Books,0.24,1
+CUST0288,52,Other,Married,Bachelor's,Unemployed,136757,81,Silver,85,0.7,In-store,42,739.29,West,98,Beauty,0.15,5
+CUST0289,24,Other,Divorced,None,Student,68664,16,Platinum,63,2.0,Online,13,122.43,East,77,Groceries,0.89,5
+CUST0290,33,Male,Widowed,Bachelor's,Self-employed,82384,15,Gold,44,4.4,Online,15,807.95,East,54,Home & Living,0.27,3
+CUST0291,43,Female,Married,None,Student,46027,99,Gold,25,0.5,Both,5,260.68,North,29,Beauty,0.14,4
+CUST0292,65,Other,Widowed,Master's,Self-employed,49485,52,None,76,6.5,In-store,29,256.44,North,41,Home & Living,0.12,5
+CUST0293,69,Female,Divorced,Bachelor's,Unemployed,50554,69,None,64,2.4,Both,35,594.48,Central,9,Beauty,0.7,4
+CUST0294,66,Female,Widowed,None,Professional,61922,5,None,23,7.7,Both,27,79.42,West,63,Electronics,0.01,1
+CUST0295,19,Other,Married,High School,Retired,28409,20,Platinum,73,3.4,In-store,27,36.03,West,77,Beauty,0.47,3
+CUST0296,18,Female,Single,Master's,Unemployed,51639,79,None,34,1.0,In-store,8,268.42,East,37,Groceries,0.12,2
+CUST0297,65,Other,Widowed,Master's,Student,34692,18,Gold,23,6.6,Online,32,542.69,East,14,Books,0.85,1
+CUST0298,29,Female,Widowed,High School,Retired,104037,2,None,27,1.5,In-store,20,908.54,Central,73,Groceries,0.96,4
+CUST0299,22,Other,Married,None,Professional,33074,93,Silver,99,3.4,Both,10,847.97,West,72,Groceries,0.96,4
+CUST0300,54,Male,Married,PhD,Unemployed,44963,13,None,79,0.4,Both,13,495.54,North,39,Groceries,0.44,1
+CUST0301,49,Other,Widowed,High School,Retired,67265,4,Platinum,15,4.8,In-store,29,46.68,South,40,Home & Living,0.64,4
+CUST0302,26,Other,Divorced,None,Unemployed,31061,42,Silver,58,5.5,Both,35,539.9,Central,54,Clothing,0.6,2
+CUST0303,58,Other,Widowed,High School,Unemployed,128502,74,Silver,80,2.4,Online,8,707.75,South,3,Clothing,0.35,2
+CUST0304,52,Other,Married,High School,Professional,37800,61,Silver,53,15.4,Both,29,345.77,North,55,Electronics,0.44,4
+CUST0305,36,Female,Single,Bachelor's,Self-employed,131192,95,Platinum,78,10.4,Online,31,119.95,North,33,Groceries,0.06,4
+CUST0306,65,Male,Single,None,Retired,122228,8,Gold,15,6.2,Both,41,285.78,South,96,Clothing,0.8,2
+CUST0307,33,Other,Divorced,PhD,Professional,43054,67,None,14,6.3,Online,30,773.87,Central,71,Electronics,0.24,4
+CUST0308,20,Female,Widowed,Bachelor's,Unemployed,28233,63,Silver,97,1.5,Online,22,357.73,South,19,Home & Living,0.46,5
+CUST0309,37,Male,Single,High School,Professional,80727,9,Silver,10,5.3,In-store,21,813.86,Central,34,Groceries,0.48,3
+CUST0310,41,Male,Widowed,High School,Self-employed,105610,94,Silver,64,1.1,Online,12,326.33,Central,78,Books,0.56,5
+CUST0311,50,Male,Married,High School,Retired,85453,11,Gold,78,0.8,In-store,11,171.92,East,50,Home & Living,0.82,4
+CUST0312,41,Male,Single,None,Self-employed,119135,99,Gold,89,37.7,Both,2,441.49,West,47,Electronics,0.69,4
+CUST0313,69,Other,Divorced,None,Student,123464,42,Platinum,67,4.9,Both,41,457.75,West,46,Home & Living,0.66,3
+CUST0314,28,Other,Married,Bachelor's,Retired,28682,13,Gold,42,2.8,Both,2,25.95,North,56,Books,0.53,4
+CUST0315,66,Female,Divorced,PhD,Self-employed,73160,36,None,68,1.7,Online,34,125.87,East,57,Home & Living,0.1,3
+CUST0316,25,Female,Married,Bachelor's,Unemployed,38666,13,Platinum,98,4.6,Both,3,193.08,West,83,Electronics,0.4,2
+CUST0317,53,Female,Single,Master's,Retired,73817,12,Platinum,12,0.3,Both,16,122.45,Central,51,Books,0.96,3
+CUST0318,55,Male,Divorced,High School,Retired,106198,37,None,9,0.5,In-store,4,348.11,Central,54,Books,1.0,3
+CUST0319,57,Male,Divorced,High School,Professional,56830,74,None,74,0.2,In-store,23,964.98,South,90,Home & Living,0.73,5
+CUST0320,37,Other,Married,High School,Unemployed,25234,73,None,81,3.5,Both,20,514.13,South,81,Books,0.23,4
+CUST0321,52,Male,Divorced,Bachelor's,Student,72616,52,Platinum,97,4.6,Both,25,631.28,Central,28,Home & Living,0.1,2
+CUST0322,65,Male,Married,Bachelor's,Self-employed,24221,71,Platinum,40,0.3,Online,30,362.82,Central,19,Groceries,0.41,1
+CUST0323,42,Male,Married,High School,Professional,16051,2,Platinum,49,6.4,Online,18,330.25,South,27,Books,0.86,3
+CUST0324,52,Female,Married,Bachelor's,Self-employed,125529,56,None,86,1.3,Both,42,32.92,West,48,Home & Living,0.72,1
+CUST0325,42,Female,Married,None,Student,91918,60,None,70,5.8,In-store,11,505.33,North,19,Groceries,0.88,4
+CUST0326,46,Other,Single,None,Student,93116,23,Silver,58,20.1,Both,29,488.77,South,97,Books,0.62,3
+CUST0327,35,Male,Married,Bachelor's,Retired,137226,40,Gold,38,5.9,Online,17,166.25,West,51,Groceries,0.13,1
+CUST0328,63,Male,Widowed,High School,Student,59757,64,Silver,2,10.7,In-store,26,766.68,West,7,Beauty,0.11,5
+CUST0329,35,Other,Divorced,Bachelor's,Self-employed,136008,85,None,75,14.8,In-store,23,497.75,West,29,Books,0.05,1
+CUST0330,19,Male,Widowed,Bachelor's,Unemployed,146379,23,Platinum,6,3.3,Online,48,345.6,East,43,Beauty,0.57,5
+CUST0331,52,Male,Single,Bachelor's,Unemployed,71889,29,None,48,6.1,Both,20,155.44,East,69,Electronics,0.24,2
+CUST0332,33,Female,Widowed,Master's,Retired,50944,78,Gold,25,9.6,Both,45,556.64,West,94,Electronics,0.73,4
+CUST0333,58,Other,Divorced,None,Self-employed,114555,90,Silver,32,2.2,Both,2,755.29,Central,58,Home & Living,0.69,1
+CUST0334,53,Other,Widowed,PhD,Self-employed,53134,51,Silver,47,1.5,Online,24,289.18,East,8,Clothing,0.32,3
+CUST0335,50,Other,Single,PhD,Student,40954,69,Platinum,78,14.6,In-store,31,226.61,South,42,Beauty,0.18,4
+CUST0336,21,Other,Married,Master's,Self-employed,104959,95,Silver,1,6.5,Online,27,526.72,East,76,Beauty,0.1,1
+CUST0337,50,Female,Widowed,Bachelor's,Professional,19992,89,Silver,70,1.2,Both,2,163.79,Central,42,Electronics,0.74,3
+CUST0338,31,Female,Single,Master's,Student,16961,31,None,31,3.0,Online,14,669.95,North,13,Beauty,0.45,3
+CUST0339,38,Male,Single,Master's,Professional,27497,50,Silver,3,8.0,In-store,4,609.29,East,26,Clothing,0.32,3
+CUST0340,65,Male,Divorced,High School,Retired,28255,20,Silver,19,4.0,Online,49,96.21,West,18,Groceries,0.86,3
+CUST0341,37,Male,Divorced,None,Unemployed,63847,55,Silver,35,5.2,Both,13,46.16,West,42,Groceries,0.59,1
+CUST0342,25,Male,Widowed,PhD,Retired,35389,81,Platinum,31,7.0,In-store,36,624.09,West,51,Clothing,0.52,2
+CUST0343,24,Female,Married,Bachelor's,Unemployed,138802,2,Platinum,27,4.9,Online,35,301.35,North,84,Beauty,0.74,5
+CUST0344,20,Other,Single,PhD,Retired,76576,25,None,76,3.9,Online,44,95.58,Central,16,Beauty,0.82,5
+CUST0345,34,Female,Widowed,PhD,Self-employed,58919,13,Silver,0,6.9,In-store,8,761.83,South,3,Beauty,0.69,5
+CUST0346,50,Male,Single,None,Professional,18358,92,Platinum,59,6.5,In-store,2,320.9,Central,91,Home & Living,0.44,2
+CUST0347,65,Female,Single,PhD,Unemployed,103535,70,Platinum,55,5.0,Both,6,465.0,North,79,Books,0.38,3
+CUST0348,29,Other,Married,PhD,Student,120982,67,None,34,2.2,In-store,31,244.44,West,98,Clothing,0.77,3
+CUST0349,68,Other,Married,Master's,Professional,20698,58,Gold,29,2.6,Both,10,631.04,Central,45,Clothing,0.52,4
+CUST0350,39,Female,Widowed,None,Student,81809,99,Silver,53,17.6,Online,44,308.47,South,22,Clothing,0.7,5
+CUST0351,39,Female,Married,High School,Professional,108079,82,Platinum,35,0.6,Both,21,968.34,West,23,Clothing,0.89,5
+CUST0352,63,Female,Married,Bachelor's,Professional,70805,75,None,54,1.6,Online,42,705.92,South,59,Clothing,0.92,3
+CUST0353,47,Male,Widowed,PhD,Retired,90033,84,None,88,3.4,In-store,10,145.36,East,62,Beauty,0.28,5
+CUST0354,55,Female,Married,Bachelor's,Unemployed,113239,64,None,79,9.1,Online,23,422.53,South,68,Home & Living,0.19,3
+CUST0355,55,Female,Divorced,High School,Unemployed,145407,69,Platinum,57,0.9,In-store,3,391.57,West,54,Electronics,0.26,3
+CUST0356,62,Female,Single,Bachelor's,Professional,59041,83,Silver,82,1.6,Online,32,538.9,East,57,Beauty,0.75,3
+CUST0357,68,Other,Single,High School,Self-employed,46954,86,Gold,64,0.3,Online,20,843.51,West,23,Beauty,0.37,1
+CUST0358,25,Other,Single,Master's,Self-employed,23002,59,Silver,68,6.1,Online,10,587.59,West,60,Books,0.17,1
+CUST0359,44,Male,Single,PhD,Student,84783,60,None,50,1.4,Online,29,70.94,East,73,Electronics,0.1,1
+CUST0360,44,Male,Widowed,High School,Student,122524,83,None,21,2.5,Both,41,658.86,South,88,Clothing,0.33,1
+CUST0361,51,Other,Single,Bachelor's,Retired,139857,62,Gold,87,2.9,Online,46,18.18,North,85,Electronics,0.14,2
+CUST0362,38,Other,Single,PhD,Professional,34738,16,Silver,52,11.1,Both,34,782.16,North,55,Home & Living,0.16,4
+CUST0363,47,Other,Single,Master's,Student,25703,88,None,99,2.6,In-store,37,669.97,North,80,Groceries,0.68,4
+CUST0364,50,Female,Single,PhD,Student,128776,68,None,35,0.8,In-store,20,315.7,North,63,Beauty,0.02,3
+CUST0365,45,Female,Divorced,High School,Professional,59724,15,Silver,67,3.7,Both,8,299.52,Central,56,Electronics,0.12,5
+CUST0366,64,Other,Single,Master's,Retired,47299,89,None,35,16.5,In-store,7,800.29,North,55,Books,0.84,1
+CUST0367,50,Female,Divorced,Bachelor's,Student,30641,55,Silver,51,4.7,In-store,6,785.5,East,25,Home & Living,0.84,4
+CUST0368,22,Female,Widowed,Master's,Retired,94534,35,None,52,20.5,Online,11,358.78,North,26,Groceries,0.33,4
+CUST0369,65,Male,Married,Master's,Unemployed,21305,55,Silver,81,9.2,Online,44,305.96,West,49,Home & Living,0.09,1
+CUST0370,36,Other,Single,None,Retired,33782,14,Gold,49,0.2,Online,18,564.23,North,63,Clothing,0.7,2
+CUST0371,21,Other,Married,Master's,Self-employed,93257,49,None,79,5.4,Both,42,18.28,South,45,Groceries,0.36,2
+CUST0372,52,Female,Married,Master's,Self-employed,92963,83,Gold,40,1.7,Both,29,91.84,East,73,Books,0.05,4
+CUST0373,66,Other,Widowed,PhD,Retired,136987,100,None,17,4.1,In-store,25,134.91,East,79,Groceries,0.16,2
+CUST0374,34,Male,Married,Bachelor's,Self-employed,139591,7,None,21,1.6,Online,21,193.56,Central,39,Books,0.14,1
+CUST0375,61,Male,Divorced,PhD,Unemployed,82766,30,Platinum,65,2.1,Both,46,516.9,West,97,Clothing,0.59,4
+CUST0376,45,Male,Married,PhD,Professional,21511,83,Silver,20,12.8,Both,3,992.32,East,65,Books,0.9,1
+CUST0377,47,Other,Married,High School,Self-employed,129816,49,Gold,99,1.2,Online,18,656.09,South,69,Home & Living,0.79,2
+CUST0378,46,Other,Married,PhD,Self-employed,19765,89,Gold,43,10.4,Both,24,70.69,North,56,Electronics,0.55,1
+CUST0379,63,Other,Single,None,Retired,38929,16,Gold,46,0.2,Online,47,530.32,East,9,Home & Living,0.42,2
+CUST0380,23,Other,Single,None,Unemployed,126576,51,Silver,38,0.5,In-store,38,501.68,South,70,Beauty,0.62,2
+CUST0381,52,Other,Divorced,High School,Professional,86088,72,Platinum,28,9.6,In-store,10,152.73,North,28,Home & Living,0.44,1
+CUST0382,58,Male,Divorced,Bachelor's,Retired,92525,82,Gold,53,5.0,In-store,27,921.07,Central,45,Groceries,0.25,2
+CUST0383,54,Female,Single,Bachelor's,Retired,28780,92,Silver,89,6.9,Online,12,446.36,East,26,Clothing,0.68,3
+CUST0384,41,Male,Divorced,PhD,Unemployed,21589,80,None,84,1.2,Both,7,994.61,East,28,Beauty,0.87,1
+CUST0385,46,Other,Single,PhD,Professional,108664,83,Gold,16,3.9,In-store,17,425.87,South,40,Beauty,0.37,3
+CUST0386,66,Male,Widowed,PhD,Unemployed,119188,42,Gold,79,6.7,In-store,1,611.88,West,15,Beauty,0.84,1
+CUST0387,63,Other,Married,Bachelor's,Professional,108326,17,Platinum,59,4.9,In-store,26,113.71,Central,6,Electronics,0.43,2
+CUST0388,48,Other,Married,Master's,Unemployed,55953,63,Gold,30,3.2,Both,15,459.69,West,27,Books,0.4,2
+CUST0389,52,Male,Divorced,None,Retired,80785,45,Gold,72,16.1,Both,33,246.38,East,38,Groceries,0.03,4
+CUST0390,50,Other,Single,Master's,Retired,34309,77,None,94,5.6,Online,37,837.21,West,68,Clothing,0.7,4
+CUST0391,69,Female,Single,Master's,Student,69195,7,Silver,77,11.9,In-store,47,786.08,North,75,Electronics,0.81,3
+CUST0392,38,Other,Divorced,Bachelor's,Self-employed,40901,27,Silver,48,6.5,Both,31,825.94,Central,85,Home & Living,0.66,2
+CUST0393,49,Female,Single,Master's,Unemployed,40464,10,Platinum,1,6.6,Online,35,726.37,West,64,Clothing,0.15,4
+CUST0394,40,Female,Widowed,High School,Student,31260,34,None,47,0.4,In-store,1,834.36,North,30,Beauty,0.1,2
+CUST0395,50,Other,Married,PhD,Self-employed,139997,36,Silver,13,2.2,Both,8,208.82,South,82,Clothing,0.57,1
+CUST0396,20,Male,Divorced,High School,Unemployed,50440,25,None,58,9.8,Both,12,457.52,West,99,Clothing,0.4,4
+CUST0397,35,Female,Divorced,None,Professional,110082,6,Silver,96,1.3,Online,19,694.93,Central,3,Home & Living,0.43,3
+CUST0398,42,Male,Single,PhD,Self-employed,120583,24,None,98,0.6,In-store,25,641.02,North,62,Books,0.97,4
+CUST0399,59,Female,Divorced,Master's,Retired,71683,18,Platinum,57,2.0,In-store,32,719.19,West,12,Groceries,0.72,2
+CUST0400,48,Other,Widowed,None,Student,139206,87,Gold,57,1.2,Both,12,232.02,South,91,Beauty,0.41,5
+CUST0401,20,Other,Single,PhD,Self-employed,148059,6,Platinum,50,13.0,In-store,13,107.45,West,30,Books,0.02,5
+CUST0402,57,Female,Single,Master's,Self-employed,93484,29,Silver,83,10.1,Online,28,917.64,North,85,Electronics,0.03,2
+CUST0403,63,Other,Single,High School,Retired,83309,25,Platinum,1,3.5,Both,1,564.57,West,38,Beauty,0.68,1
+CUST0404,41,Female,Single,PhD,Unemployed,60927,55,Gold,40,0.3,Both,6,162.29,Central,85,Groceries,0.84,4
+CUST0405,67,Other,Widowed,Master's,Professional,57946,81,Platinum,82,6.3,Online,8,795.5,East,60,Electronics,0.71,5
+CUST0406,49,Male,Single,High School,Retired,141503,46,Silver,81,4.9,Both,4,915.78,North,38,Home & Living,0.41,1
+CUST0407,64,Other,Divorced,None,Professional,68592,24,Silver,15,17.6,In-store,5,177.87,North,15,Books,0.03,2
+CUST0408,39,Male,Widowed,None,Unemployed,48776,75,Platinum,3,4.1,In-store,25,819.24,North,18,Beauty,0.97,1
+CUST0409,40,Other,Married,None,Self-employed,149855,26,Gold,11,2.1,Both,22,933.89,North,52,Clothing,0.99,2
+CUST0410,19,Male,Married,None,Professional,70798,98,Platinum,28,3.7,Online,28,938.98,West,29,Groceries,0.55,4
+CUST0411,44,Other,Divorced,Bachelor's,Student,85204,28,Gold,6,19.4,Online,39,915.01,Central,60,Beauty,0.07,1
+CUST0412,59,Male,Divorced,PhD,Student,101207,3,None,13,6.0,In-store,23,550.96,South,21,Clothing,0.54,4
+CUST0413,19,Female,Widowed,PhD,Retired,115356,75,Gold,11,5.6,Online,4,362.65,Central,17,Beauty,0.89,1
+CUST0414,43,Female,Married,Bachelor's,Unemployed,75652,38,None,98,1.4,Both,4,17.2,North,18,Electronics,0.68,2
+CUST0415,34,Male,Married,Master's,Retired,144572,61,Platinum,4,6.8,Both,47,70.3,West,57,Clothing,0.72,2
+CUST0416,57,Other,Married,Master's,Retired,35922,78,Gold,80,6.9,In-store,21,434.55,West,37,Clothing,0.08,1
+CUST0417,50,Male,Married,None,Retired,91996,51,None,31,1.9,In-store,37,405.33,North,60,Beauty,0.11,2
+CUST0418,26,Other,Married,High School,Student,45266,90,None,73,3.3,In-store,41,192.87,West,38,Home & Living,0.13,3
+CUST0419,60,Female,Single,Master's,Student,17866,48,None,42,1.7,Online,2,401.53,North,12,Home & Living,0.9,3
+CUST0420,65,Other,Divorced,High School,Retired,127669,21,Silver,80,1.5,Both,7,182.9,Central,75,Books,0.53,4
+CUST0421,56,Female,Single,PhD,Student,20898,54,Platinum,68,0.1,Both,49,850.3,East,84,Electronics,0.79,3
+CUST0422,46,Other,Married,High School,Unemployed,33395,56,None,44,1.7,Both,16,305.21,West,73,Home & Living,0.12,3
+CUST0423,59,Other,Widowed,PhD,Retired,19006,94,Gold,8,4.0,In-store,17,602.58,North,1,Beauty,0.93,5
+CUST0424,43,Other,Widowed,Bachelor's,Student,25956,59,None,48,0.0,Both,20,507.81,North,58,Home & Living,0.82,5
+CUST0425,52,Male,Married,Bachelor's,Professional,110676,72,Silver,32,1.7,Online,23,61.36,West,3,Books,0.22,5
+CUST0426,67,Male,Married,None,Retired,136724,51,Platinum,99,10.7,Online,34,942.81,South,63,Groceries,0.87,5
+CUST0427,42,Female,Widowed,Master's,Retired,77901,20,Silver,99,4.5,Both,11,531.95,North,21,Books,0.26,2
+CUST0428,41,Female,Single,None,Unemployed,122227,96,Silver,17,4.7,In-store,34,331.81,West,23,Clothing,0.21,4
+CUST0429,30,Male,Single,PhD,Self-employed,132192,86,Silver,8,2.6,Both,33,166.55,North,9,Clothing,0.26,4
+CUST0430,24,Female,Married,None,Self-employed,46417,59,Gold,61,5.6,Online,26,345.14,South,83,Home & Living,0.91,3
+CUST0431,53,Male,Single,High School,Unemployed,103020,71,Platinum,56,1.1,Online,2,30.31,East,55,Home & Living,0.92,4
+CUST0432,62,Other,Widowed,PhD,Unemployed,98639,9,Platinum,28,8.5,Online,23,369.92,South,19,Books,0.33,3
+CUST0433,37,Female,Single,Bachelor's,Unemployed,109881,1,Gold,77,0.6,Both,41,536.17,Central,62,Books,0.71,4
+CUST0434,18,Female,Married,Master's,Self-employed,147659,29,Platinum,24,5.3,Online,22,873.15,West,87,Beauty,0.68,1
+CUST0435,25,Male,Widowed,PhD,Unemployed,136688,63,Silver,14,2.1,In-store,34,690.5,South,91,Electronics,0.81,1
+CUST0436,63,Female,Single,PhD,Student,130584,72,Platinum,5,6.9,Both,15,120.47,East,91,Beauty,0.3,4
+CUST0437,33,Female,Divorced,High School,Retired,101567,56,Gold,41,4.0,Both,10,156.27,North,39,Clothing,0.51,2
+CUST0438,31,Other,Widowed,Master's,Retired,90886,68,Silver,28,3.0,Online,15,433.84,West,100,Beauty,0.67,3
+CUST0439,29,Female,Widowed,Bachelor's,Professional,44432,35,Gold,78,0.9,Online,42,203.75,South,76,Books,0.03,4
+CUST0440,68,Other,Divorced,PhD,Professional,87373,3,None,92,5.1,In-store,29,37.57,East,27,Beauty,0.38,3
+CUST0441,40,Male,Divorced,PhD,Retired,35884,7,Silver,3,18.4,Both,23,806.96,South,46,Groceries,0.7,5
+CUST0442,32,Female,Widowed,High School,Student,20454,27,Silver,81,8.7,Online,17,29.33,Central,34,Electronics,0.25,4
+CUST0443,45,Other,Divorced,None,Self-employed,89960,1,Platinum,56,0.3,In-store,9,832.38,West,33,Books,0.96,2
+CUST0444,51,Male,Married,Bachelor's,Self-employed,117421,91,Silver,48,2.4,Online,36,152.66,North,92,Home & Living,0.03,5
+CUST0445,19,Female,Married,Master's,Student,58618,80,Gold,43,13.0,Both,9,974.93,East,95,Beauty,0.96,4
+CUST0446,49,Male,Married,PhD,Self-employed,62111,71,Platinum,79,3.5,Online,16,607.84,South,96,Books,0.22,1
+CUST0447,40,Female,Widowed,PhD,Unemployed,135592,44,None,74,5.4,Both,36,737.63,West,50,Home & Living,0.05,4
+CUST0448,39,Male,Divorced,Bachelor's,Retired,74993,87,Gold,13,12.2,Online,48,119.38,South,20,Home & Living,0.29,1
+CUST0449,68,Male,Divorced,None,Retired,143652,41,None,2,10.3,Both,33,863.48,West,40,Clothing,0.79,1
+CUST0450,42,Other,Single,PhD,Student,93672,75,None,61,3.5,In-store,31,840.8,Central,99,Clothing,0.75,4
+CUST0451,39,Male,Single,Bachelor's,Self-employed,81125,42,None,63,2.9,Both,6,656.46,South,95,Books,0.21,4
+CUST0452,39,Female,Divorced,High School,Professional,132509,33,Silver,44,2.1,In-store,10,507.25,Central,58,Books,0.2,1
+CUST0453,66,Female,Divorced,None,Professional,76602,50,Gold,81,6.3,Both,16,724.27,East,31,Groceries,0.64,3
+CUST0454,69,Other,Divorced,Master's,Self-employed,57222,63,Gold,57,1.7,In-store,4,15.87,Central,38,Electronics,0.46,5
+CUST0455,59,Female,Widowed,PhD,Professional,64223,100,Silver,19,1.4,Online,22,596.52,West,86,Electronics,0.79,2
+CUST0456,23,Female,Divorced,Bachelor's,Student,80333,37,Platinum,57,2.2,Both,13,848.93,East,45,Books,0.02,4
+CUST0457,32,Female,Single,High School,Student,137650,59,None,88,1.0,Online,16,363.33,South,41,Clothing,0.61,5
+CUST0458,60,Male,Widowed,Master's,Self-employed,64420,81,Gold,56,5.9,In-store,29,117.21,South,9,Beauty,0.73,5
+CUST0459,54,Male,Divorced,Bachelor's,Professional,90504,99,Silver,76,4.8,Both,6,426.67,West,9,Groceries,0.99,3
+CUST0460,50,Female,Single,Bachelor's,Student,17462,48,None,67,3.3,Both,26,729.83,North,63,Electronics,0.68,5
+CUST0461,25,Other,Widowed,Master's,Student,24460,5,Platinum,77,2.5,Online,11,116.23,North,79,Books,0.23,4
+CUST0462,61,Male,Divorced,High School,Unemployed,114319,48,Platinum,96,12.0,Both,24,213.99,South,77,Clothing,0.11,5
+CUST0463,61,Other,Divorced,High School,Unemployed,144593,96,None,91,0.1,Both,29,156.08,West,22,Clothing,0.64,4
+CUST0464,22,Female,Divorced,None,Student,137672,3,Platinum,51,7.3,Online,3,798.98,North,16,Clothing,0.52,4
+CUST0465,56,Female,Widowed,PhD,Self-employed,87920,47,Gold,36,11.6,Both,10,72.26,Central,32,Beauty,0.9,1
+CUST0466,21,Male,Single,Master's,Retired,37553,62,Gold,7,3.0,Online,1,689.72,South,66,Home & Living,0.73,3
+CUST0467,23,Female,Single,Master's,Retired,59036,99,Gold,43,4.0,Online,43,372.79,Central,90,Beauty,0.51,2
+CUST0468,62,Male,Married,Master's,Student,85021,14,Platinum,97,14.5,Online,26,758.23,West,14,Clothing,0.4,1
+CUST0469,49,Female,Divorced,High School,Student,122205,63,Gold,4,1.2,Online,12,964.74,Central,38,Books,0.4,2
+CUST0470,69,Female,Married,PhD,Student,103209,61,Silver,68,3.7,Online,14,123.4,North,98,Groceries,0.23,4
+CUST0471,47,Male,Married,None,Self-employed,90139,31,Gold,30,3.2,In-store,25,321.24,North,8,Beauty,0.02,1
+CUST0472,64,Male,Single,Bachelor's,Unemployed,20368,95,Gold,44,1.5,In-store,8,812.02,East,100,Books,0.57,5
+CUST0473,52,Male,Widowed,Bachelor's,Student,73829,17,Platinum,8,8.5,Online,43,273.5,South,21,Clothing,0.21,5
+CUST0474,57,Female,Widowed,Master's,Student,144036,24,Gold,31,11.5,In-store,4,222.97,West,56,Groceries,0.21,2
+CUST0475,69,Female,Single,PhD,Professional,29719,23,None,32,7.6,In-store,28,827.12,South,46,Electronics,0.13,4
+CUST0476,33,Other,Widowed,High School,Self-employed,44227,82,Silver,66,1.1,Both,7,987.21,Central,43,Electronics,0.19,2
+CUST0477,30,Male,Married,PhD,Student,124430,50,Platinum,29,0.5,Online,10,561.31,West,92,Books,0.03,3
+CUST0478,67,Female,Divorced,PhD,Professional,27306,78,Silver,75,4.6,In-store,36,285.27,West,46,Groceries,0.67,5
+CUST0479,59,Female,Single,High School,Retired,68822,79,None,28,0.3,Both,2,404.58,North,48,Books,0.4,1
+CUST0480,47,Male,Divorced,Master's,Student,39042,79,Platinum,2,5.6,Both,26,178.43,Central,70,Groceries,0.56,1
+CUST0481,36,Other,Widowed,PhD,Student,104424,70,Platinum,89,3.8,Online,14,764.27,North,84,Groceries,0.64,1
+CUST0482,34,Male,Divorced,Bachelor's,Professional,33019,27,Gold,56,5.4,Online,16,775.74,North,31,Books,0.97,5
+CUST0483,36,Other,Widowed,High School,Self-employed,90426,15,Silver,29,4.5,Both,43,876.37,East,33,Groceries,0.07,4
+CUST0484,45,Female,Widowed,None,Student,55863,50,None,8,2.7,Online,42,36.34,North,44,Beauty,0.42,5
+CUST0485,43,Other,Married,Master's,Retired,126023,36,None,25,1.1,Online,17,566.36,South,71,Clothing,0.25,5
+CUST0486,54,Female,Widowed,High School,Student,61999,8,Platinum,1,1.8,Both,46,222.11,West,8,Groceries,0.48,1
+CUST0487,43,Male,Married,None,Retired,77780,79,Gold,61,3.7,Both,22,347.47,North,73,Beauty,0.92,5
+CUST0488,40,Male,Married,None,Unemployed,37908,3,Platinum,2,5.3,Online,4,787.11,South,2,Groceries,0.72,1
+CUST0489,26,Male,Married,PhD,Unemployed,141278,62,Platinum,45,7.6,In-store,19,200.11,Central,17,Beauty,0.66,4
+CUST0490,29,Other,Single,PhD,Retired,128002,47,Platinum,67,7.3,Online,2,641.96,West,52,Books,0.44,3
+CUST0491,18,Female,Single,PhD,Self-employed,115706,77,Platinum,24,18.0,In-store,39,658.02,Central,45,Electronics,0.67,1
+CUST0492,18,Male,Widowed,High School,Student,137019,98,None,50,1.7,Both,9,954.55,South,37,Home & Living,0.03,2
+CUST0493,64,Male,Married,High School,Student,124708,88,None,12,0.4,In-store,19,777.41,Central,42,Groceries,0.59,3
+CUST0494,51,Female,Single,Master's,Unemployed,24343,96,Platinum,43,2.1,Both,16,805.6,Central,44,Home & Living,0.55,4
+CUST0495,49,Male,Married,PhD,Retired,91173,61,Platinum,34,6.8,Online,25,536.28,Central,81,Groceries,0.35,3
+CUST0496,65,Female,Divorced,None,Student,115260,32,Gold,54,2.9,Online,48,194.91,North,38,Books,0.2,1
+CUST0497,42,Female,Divorced,Bachelor's,Student,84443,94,Platinum,86,8.5,Both,18,431.31,North,99,Books,0.81,4
+CUST0498,57,Female,Divorced,Master's,Self-employed,72530,13,None,8,4.0,Both,23,553.99,North,94,Beauty,0.05,2
+CUST0499,62,Female,Widowed,High School,Professional,111143,1,Silver,1,13.3,Both,21,681.64,West,6,Groceries,0.07,1
+CUST0500,18,Female,Married,Master's,Unemployed,129527,34,None,60,14.8,Online,11,611.63,South,68,Books,0.44,1
+CUST0501,33,Other,Divorced,Master's,Unemployed,126362,62,Gold,40,0.4,Online,39,400.04,North,51,Books,0.25,4
+CUST0502,56,Male,Single,Master's,Professional,43807,79,None,43,3.0,In-store,41,272.66,Central,35,Groceries,0.75,4
+CUST0503,22,Other,Divorced,Master's,Student,74550,78,Silver,63,4.7,Both,4,176.55,Central,58,Beauty,0.63,3
+CUST0504,39,Male,Divorced,Bachelor's,Self-employed,18558,93,Platinum,30,1.5,In-store,25,696.91,Central,57,Beauty,0.77,2
+CUST0505,46,Other,Divorced,PhD,Self-employed,65113,98,Silver,46,2.6,Online,32,648.94,Central,73,Beauty,0.32,3
+CUST0506,20,Female,Widowed,None,Unemployed,67999,82,Platinum,1,5.7,In-store,30,690.5,East,6,Beauty,0.74,3
+CUST0507,29,Male,Single,Master's,Self-employed,73219,71,Platinum,95,1.3,In-store,45,378.8,West,13,Electronics,0.86,1
+CUST0508,43,Male,Married,Master's,Professional,68218,93,None,81,4.6,Online,26,269.78,South,59,Groceries,0.35,4
+CUST0509,33,Other,Single,Master's,Student,34229,31,None,76,6.0,Online,36,762.12,South,86,Electronics,0.34,1
+CUST0510,68,Other,Married,PhD,Professional,90209,64,None,68,0.5,Both,34,775.91,North,92,Books,0.9,2
+CUST0511,54,Male,Widowed,High School,Retired,42877,25,Gold,57,3.4,In-store,9,461.06,East,30,Electronics,0.05,3
+CUST0512,39,Other,Widowed,High School,Unemployed,112137,38,None,43,1.5,Online,12,615.79,South,100,Beauty,0.35,2
+CUST0513,46,Other,Widowed,Bachelor's,Self-employed,53084,14,Gold,73,6.4,Online,2,379.78,West,2,Books,0.12,4
+CUST0514,31,Other,Widowed,High School,Retired,96780,8,None,55,1.1,In-store,38,704.93,Central,58,Electronics,0.03,4
+CUST0515,45,Female,Married,Master's,Self-employed,52034,91,Platinum,42,11.1,Online,5,837.36,North,36,Electronics,0.11,5
+CUST0516,22,Female,Divorced,Master's,Student,70468,54,Gold,88,2.8,Both,5,691.35,West,72,Groceries,0.43,2
+CUST0517,64,Other,Married,Master's,Student,25589,2,Silver,33,1.1,Both,22,517.46,South,45,Electronics,0.69,1
+CUST0518,66,Other,Single,Bachelor's,Student,72221,81,Gold,29,2.9,In-store,5,464.07,East,9,Books,0.29,2
+CUST0519,47,Female,Widowed,Master's,Self-employed,16657,78,Gold,70,2.6,Both,4,645.9,North,65,Beauty,0.85,3
+CUST0520,63,Female,Widowed,High School,Retired,113300,89,Silver,69,2.8,Online,9,683.01,South,77,Groceries,0.44,4
+CUST0521,69,Male,Single,PhD,Student,132229,56,Gold,54,4.4,Online,29,563.14,North,50,Electronics,0.97,4
+CUST0522,22,Male,Married,PhD,Retired,54531,94,Platinum,66,3.7,Online,22,628.69,South,79,Groceries,0.95,2
+CUST0523,29,Female,Divorced,None,Self-employed,67227,93,None,12,0.8,Online,27,105.62,Central,32,Home & Living,0.77,2
+CUST0524,33,Other,Divorced,High School,Retired,18164,84,Silver,2,0.3,In-store,10,952.25,East,98,Groceries,0.93,2
+CUST0525,43,Other,Single,Master's,Self-employed,108078,85,None,25,6.5,Both,16,792.87,Central,43,Beauty,0.71,3
+CUST0526,43,Other,Divorced,PhD,Self-employed,56247,61,Platinum,56,4.1,Both,42,380.19,South,95,Home & Living,0.9,3
+CUST0527,65,Other,Married,High School,Unemployed,65599,22,Silver,23,2.2,Online,42,567.18,West,78,Home & Living,0.24,1
+CUST0528,38,Male,Married,PhD,Self-employed,83207,35,None,52,8.3,In-store,10,56.85,Central,54,Groceries,0.35,2
+CUST0529,56,Female,Single,Master's,Self-employed,87055,16,None,69,2.5,Online,6,50.82,West,47,Books,0.75,1
+CUST0530,53,Other,Married,PhD,Professional,117266,50,Platinum,42,7.9,Online,49,258.29,South,14,Beauty,0.42,5
+CUST0531,50,Male,Widowed,None,Student,93270,43,None,59,1.8,In-store,5,692.8,East,48,Books,0.84,3
+CUST0532,47,Other,Single,None,Unemployed,126426,17,Platinum,57,0.4,In-store,6,853.63,West,55,Beauty,0.88,4
+CUST0533,54,Female,Married,PhD,Unemployed,149794,80,Gold,48,13.5,Online,47,563.59,South,29,Beauty,0.3,5
+CUST0534,40,Male,Single,High School,Unemployed,85442,58,Platinum,41,2.5,Both,25,536.81,West,47,Books,0.82,4
+CUST0535,27,Female,Divorced,High School,Professional,110632,2,Gold,75,7.9,Online,4,408.29,Central,63,Clothing,0.15,5
+CUST0536,22,Female,Married,High School,Self-employed,36438,4,Silver,99,1.6,Both,40,169.98,South,19,Home & Living,0.33,1
+CUST0537,53,Male,Widowed,PhD,Student,73819,85,None,65,5.2,Both,48,127.17,Central,91,Groceries,0.52,1
+CUST0538,51,Male,Married,High School,Retired,58856,39,Platinum,10,10.3,In-store,32,763.07,North,9,Books,0.23,3
+CUST0539,69,Male,Single,Master's,Self-employed,56938,98,Platinum,97,0.2,In-store,35,928.23,South,37,Books,0.58,4
+CUST0540,48,Male,Single,None,Professional,74807,94,None,89,8.9,Online,10,463.7,West,92,Groceries,0.58,5
+CUST0541,27,Male,Married,Master's,Self-employed,64877,6,None,17,4.2,Both,34,662.85,North,52,Home & Living,0.21,2
+CUST0542,36,Male,Widowed,High School,Self-employed,58461,81,Silver,84,4.7,Both,36,915.31,Central,57,Groceries,0.8,2
+CUST0543,49,Male,Widowed,Master's,Professional,108474,89,Silver,99,3.7,Online,6,99.21,Central,88,Beauty,0.63,3
+CUST0544,18,Other,Widowed,High School,Unemployed,98136,69,Platinum,51,10.4,Online,43,772.78,West,28,Clothing,0.32,4
+CUST0545,22,Female,Single,PhD,Unemployed,35435,69,Silver,45,0.2,Online,46,620.65,North,36,Beauty,0.23,2
+CUST0546,62,Male,Married,Master's,Student,99726,20,Gold,43,1.5,In-store,16,602.65,East,64,Clothing,0.88,3
+CUST0547,21,Other,Divorced,PhD,Student,69786,64,Silver,21,10.4,Online,19,299.62,West,18,Groceries,0.84,3
+CUST0548,33,Other,Single,PhD,Unemployed,28704,16,Silver,52,7.0,Online,34,687.05,Central,89,Beauty,0.23,4
+CUST0549,41,Other,Widowed,Bachelor's,Retired,71635,51,Platinum,58,0.1,Both,25,796.85,South,35,Home & Living,0.04,2
+CUST0550,33,Female,Married,High School,Self-employed,148195,37,Gold,93,3.6,Online,31,121.73,North,68,Beauty,0.8,2
+CUST0551,19,Male,Widowed,None,Retired,105710,73,Silver,29,3.8,Both,49,538.19,East,78,Books,0.62,2
+CUST0552,66,Other,Divorced,High School,Self-employed,77993,69,Gold,7,2.6,Both,41,110.25,South,39,Clothing,0.1,1
+CUST0553,45,Female,Widowed,None,Unemployed,127752,42,Gold,97,1.8,In-store,17,873.85,North,90,Clothing,0.59,2
+CUST0554,49,Female,Widowed,High School,Student,147886,57,Gold,56,5.7,Online,47,512.56,West,8,Home & Living,0.45,5
+CUST0555,44,Female,Divorced,PhD,Student,93537,66,None,72,1.2,Online,30,809.89,West,88,Clothing,0.77,1
+CUST0556,37,Other,Married,Master's,Retired,65258,9,None,19,8.0,Both,39,374.4,North,80,Clothing,0.21,1
+CUST0557,41,Male,Single,Master's,Student,100166,100,None,24,8.1,In-store,31,133.83,East,84,Home & Living,0.45,1
+CUST0558,29,Other,Married,Bachelor's,Unemployed,128710,86,None,18,2.7,In-store,19,51.08,North,15,Beauty,0.16,1
+CUST0559,67,Other,Divorced,None,Retired,50699,64,Platinum,4,1.7,Online,35,288.69,South,7,Groceries,0.96,3
+CUST0560,52,Male,Widowed,None,Self-employed,61335,86,Silver,74,1.7,Both,29,251.79,South,17,Beauty,0.78,5
+CUST0561,50,Male,Married,None,Student,61806,22,None,78,3.3,Online,1,564.75,West,86,Books,0.74,4
+CUST0562,50,Male,Single,PhD,Professional,92853,34,Platinum,71,6.4,Online,4,31.52,North,86,Books,0.69,2
+CUST0563,68,Female,Divorced,None,Student,50739,55,Silver,82,2.2,Online,28,525.36,West,64,Clothing,0.42,1
+CUST0564,60,Male,Married,Master's,Self-employed,49785,29,None,86,4.7,Online,18,397.85,East,12,Books,0.92,4
+CUST0565,54,Other,Single,PhD,Retired,100016,38,Silver,26,2.4,Both,26,581.35,South,82,Groceries,0.07,3
+CUST0566,29,Male,Divorced,High School,Self-employed,147681,97,None,39,1.8,In-store,40,705.39,Central,56,Clothing,0.8,4
+CUST0567,20,Other,Single,None,Professional,81253,18,Platinum,95,0.1,Online,19,637.75,Central,46,Books,0.22,1
+CUST0568,18,Female,Divorced,None,Unemployed,106128,71,Gold,25,0.0,Online,6,984.8,North,47,Electronics,0.32,5
+CUST0569,50,Other,Widowed,High School,Student,142581,65,Gold,26,1.3,Online,1,146.88,North,79,Electronics,0.52,4
+CUST0570,57,Other,Married,None,Retired,125966,97,Silver,61,2.6,Online,8,435.44,Central,16,Electronics,0.78,1
+CUST0571,27,Male,Single,High School,Unemployed,114352,1,Platinum,82,9.5,In-store,33,430.58,North,69,Electronics,0.84,1
+CUST0572,60,Male,Divorced,PhD,Self-employed,92154,88,Gold,49,8.0,In-store,43,422.88,South,2,Beauty,0.58,2
+CUST0573,61,Other,Single,Master's,Retired,123297,4,None,41,1.6,In-store,21,667.16,East,92,Electronics,0.4,2
+CUST0574,46,Male,Single,High School,Unemployed,53346,4,Gold,28,1.4,In-store,24,494.93,East,54,Clothing,0.95,5
+CUST0575,30,Female,Married,Bachelor's,Retired,127138,82,Silver,38,1.3,Online,25,522.26,West,27,Home & Living,0.25,2
+CUST0576,29,Female,Widowed,High School,Professional,65772,27,Silver,59,2.1,Both,47,438.03,South,31,Beauty,0.8,5
+CUST0577,48,Male,Single,None,Professional,55149,43,Platinum,40,3.4,In-store,43,991.78,North,41,Home & Living,0.61,3
+CUST0578,63,Female,Divorced,PhD,Student,101700,59,Silver,32,2.9,In-store,19,928.29,North,36,Clothing,0.38,3
+CUST0579,19,Male,Divorced,PhD,Student,111758,32,Gold,82,1.2,Online,29,314.65,West,47,Clothing,0.0,2
+CUST0580,68,Other,Widowed,High School,Professional,143447,33,Gold,82,0.7,Online,10,120.48,West,43,Groceries,0.45,3
+CUST0581,67,Other,Divorced,Master's,Retired,20695,28,Gold,96,0.1,Online,12,841.37,North,65,Beauty,0.28,4
+CUST0582,52,Female,Widowed,Bachelor's,Professional,54169,55,Gold,15,0.8,Online,33,997.2,North,50,Home & Living,0.1,4
+CUST0583,40,Male,Divorced,PhD,Student,62947,100,Platinum,22,6.1,Both,7,299.68,South,93,Electronics,0.08,4
+CUST0584,34,Male,Married,None,Professional,60865,60,None,6,1.4,Both,17,364.21,West,1,Clothing,0.35,3
+CUST0585,43,Female,Single,None,Professional,119501,70,None,25,3.2,In-store,10,942.22,South,72,Electronics,0.61,4
+CUST0586,25,Other,Married,Master's,Retired,75410,62,Platinum,95,4.5,Both,31,714.02,North,57,Home & Living,0.84,5
+CUST0587,46,Female,Single,PhD,Unemployed,118754,80,Silver,11,10.9,In-store,6,302.68,Central,16,Beauty,0.18,1
+CUST0588,43,Other,Single,High School,Student,105895,34,None,71,11.0,In-store,17,585.24,Central,28,Books,0.42,2
+CUST0589,27,Male,Single,None,Retired,65705,87,Silver,4,6.8,Both,37,944.79,North,86,Books,0.39,5
+CUST0590,43,Other,Married,Master's,Professional,130700,88,None,91,0.2,In-store,18,813.69,West,82,Clothing,0.51,4
+CUST0591,51,Female,Single,PhD,Professional,88914,56,Silver,68,4.3,Online,26,744.41,Central,22,Groceries,0.81,1
+CUST0592,68,Male,Married,PhD,Unemployed,16881,13,Platinum,48,7.7,In-store,49,739.63,West,41,Electronics,0.55,2
+CUST0593,58,Female,Widowed,PhD,Student,62365,56,Gold,25,0.1,Online,16,186.24,Central,76,Clothing,0.85,5
+CUST0594,24,Female,Divorced,PhD,Student,94211,18,Silver,4,4.0,Both,8,826.43,West,19,Groceries,0.52,2
+CUST0595,21,Other,Divorced,PhD,Self-employed,56198,54,Gold,21,9.8,Both,24,283.36,Central,89,Electronics,0.6,3
+CUST0596,67,Female,Single,None,Student,115649,77,Silver,78,3.2,In-store,13,931.06,West,50,Home & Living,0.44,4
+CUST0597,62,Other,Married,Master's,Unemployed,54553,43,Silver,12,0.0,Online,29,370.99,South,59,Books,0.82,5
+CUST0598,28,Male,Divorced,PhD,Self-employed,137778,39,Silver,27,0.1,In-store,32,859.08,West,69,Groceries,0.92,5
+CUST0599,46,Other,Married,Bachelor's,Self-employed,132018,61,Silver,32,2.7,Both,24,273.57,South,34,Electronics,0.64,1
+CUST0600,53,Male,Married,Bachelor's,Professional,47766,42,Silver,22,0.8,In-store,16,519.38,South,39,Clothing,0.82,1
+CUST0601,42,Other,Single,Master's,Professional,47006,81,Gold,96,5.5,In-store,11,115.82,North,74,Electronics,0.06,1
+CUST0602,38,Female,Divorced,High School,Student,46422,79,Silver,17,6.2,Online,32,663.52,South,7,Clothing,0.91,2
+CUST0603,53,Other,Single,High School,Self-employed,131590,18,Gold,29,1.0,Both,6,837.72,East,52,Books,0.19,4
+CUST0604,27,Other,Single,High School,Professional,27205,23,Platinum,25,11.0,In-store,35,721.26,South,60,Books,0.26,2
+CUST0605,54,Male,Divorced,Bachelor's,Unemployed,131477,54,None,15,2.9,Online,33,528.03,West,52,Electronics,0.05,4
+CUST0606,26,Female,Divorced,High School,Professional,43202,30,Silver,76,0.8,In-store,18,54.66,South,79,Electronics,0.97,5
+CUST0607,41,Other,Widowed,None,Professional,76692,98,None,38,7.2,Online,37,934.11,West,24,Clothing,0.85,2
+CUST0608,52,Female,Widowed,PhD,Self-employed,35855,58,Gold,32,7.8,Online,13,708.43,West,26,Clothing,0.91,2
+CUST0609,66,Other,Married,Bachelor's,Self-employed,40095,68,Platinum,25,5.1,In-store,10,748.41,East,90,Groceries,0.85,2
+CUST0610,52,Other,Divorced,Master's,Retired,64241,67,Platinum,47,9.6,Both,37,796.73,South,90,Groceries,0.48,3
+CUST0611,65,Female,Widowed,Master's,Unemployed,118119,71,Platinum,64,6.7,Both,26,750.27,South,10,Groceries,0.92,4
+CUST0612,53,Other,Married,PhD,Self-employed,67003,18,None,37,10.7,Online,46,446.71,Central,17,Electronics,0.97,4
+CUST0613,35,Female,Married,Bachelor's,Student,109837,7,Gold,1,2.8,Both,17,736.29,Central,78,Beauty,0.5,2
+CUST0614,66,Other,Married,High School,Unemployed,109283,40,Silver,5,6.9,Online,1,628.78,North,2,Beauty,0.18,3
+CUST0615,56,Male,Widowed,High School,Unemployed,138805,70,Silver,45,41.5,Both,25,855.48,West,77,Beauty,0.66,2
+CUST0616,49,Female,Divorced,None,Self-employed,108846,86,Gold,49,6.5,In-store,34,804.44,East,27,Beauty,0.98,4
+CUST0617,41,Other,Single,None,Unemployed,37927,65,None,37,0.6,Both,39,50.96,Central,73,Groceries,0.87,5
+CUST0618,40,Other,Married,High School,Self-employed,135589,68,Silver,87,3.7,Online,10,385.1,South,71,Electronics,0.86,3
+CUST0619,49,Male,Widowed,Master's,Professional,130657,49,Gold,17,4.4,Online,20,44.37,North,48,Beauty,0.93,3
+CUST0620,54,Female,Widowed,Master's,Retired,81630,52,Silver,26,1.0,Both,7,111.05,East,74,Books,0.89,2
+CUST0621,29,Other,Single,None,Professional,119428,29,Platinum,40,16.5,In-store,16,605.4,South,9,Home & Living,0.78,5
+CUST0622,66,Male,Single,PhD,Self-employed,137035,21,Silver,71,1.0,Online,37,875.08,South,86,Books,0.72,4
+CUST0623,30,Other,Widowed,High School,Self-employed,141244,90,None,91,1.0,Online,29,128.63,West,23,Electronics,0.26,1
+CUST0624,40,Female,Divorced,None,Professional,84518,78,Gold,73,12.3,Online,12,456.58,West,71,Electronics,0.62,4
+CUST0625,42,Other,Single,None,Student,96326,9,None,16,3.1,Online,17,911.77,Central,73,Home & Living,0.52,4
+CUST0626,52,Other,Widowed,High School,Student,135243,47,Gold,61,0.3,Online,48,816.16,Central,27,Clothing,0.86,5
+CUST0627,58,Other,Single,High School,Student,27748,76,Platinum,28,4.6,In-store,20,524.47,South,88,Clothing,0.49,3
+CUST0628,47,Other,Divorced,Master's,Self-employed,149164,42,Gold,57,4.6,Both,26,773.86,South,93,Clothing,0.13,4
+CUST0629,34,Male,Married,PhD,Unemployed,68311,51,Silver,69,0.3,In-store,48,527.47,Central,81,Groceries,0.0,3
+CUST0630,66,Male,Single,PhD,Self-employed,37692,56,Silver,77,18.0,In-store,19,166.51,Central,84,Clothing,0.68,5
+CUST0631,37,Female,Divorced,High School,Unemployed,139954,51,Platinum,21,3.9,Online,47,133.49,South,71,Groceries,0.55,5
+CUST0632,65,Male,Widowed,Bachelor's,Professional,145035,70,Gold,5,4.1,In-store,12,196.48,East,43,Groceries,0.33,2
+CUST0633,42,Male,Single,None,Retired,94507,20,Platinum,25,3.7,Online,21,357.41,South,7,Clothing,0.17,1
+CUST0634,39,Female,Single,None,Unemployed,95152,88,Silver,38,4.7,In-store,42,931.22,East,92,Clothing,0.47,5
+CUST0635,30,Male,Widowed,High School,Student,19926,27,None,11,1.5,Online,34,801.68,East,83,Home & Living,0.1,5
+CUST0636,36,Male,Married,Bachelor's,Self-employed,18969,38,Platinum,98,1.7,Online,7,438.47,South,63,Beauty,0.34,3
+CUST0637,66,Female,Widowed,Master's,Professional,50733,72,None,13,3.6,In-store,45,498.15,North,84,Home & Living,0.38,5
+CUST0638,53,Female,Single,High School,Student,84855,65,None,21,8.2,In-store,35,272.95,Central,44,Groceries,0.47,4
+CUST0639,29,Female,Widowed,High School,Professional,56743,54,Gold,50,0.3,Both,15,707.31,West,39,Home & Living,0.47,2
+CUST0640,58,Other,Divorced,None,Retired,145193,24,Platinum,22,4.6,Both,1,804.74,South,40,Groceries,0.26,2
+CUST0641,36,Other,Widowed,High School,Self-employed,122445,47,None,47,8.2,Both,26,246.52,East,7,Electronics,0.85,4
+CUST0642,29,Female,Single,High School,Self-employed,35323,71,None,70,0.9,In-store,35,51.4,South,70,Groceries,0.36,5
+CUST0643,26,Female,Widowed,High School,Retired,31428,83,Gold,49,0.1,In-store,25,627.65,Central,25,Groceries,0.23,1
+CUST0644,24,Female,Married,None,Self-employed,49578,86,Gold,88,1.9,Online,42,566.89,East,59,Home & Living,0.18,5
+CUST0645,45,Other,Widowed,Master's,Unemployed,101486,63,Silver,12,4.4,Both,15,408.11,West,13,Beauty,0.32,2
+CUST0646,31,Other,Married,Master's,Professional,79140,57,None,84,0.7,Online,22,647.46,West,86,Electronics,0.07,1
+CUST0647,48,Male,Divorced,High School,Student,122325,55,Silver,9,2.8,Online,6,555.11,West,81,Books,0.03,3
+CUST0648,69,Male,Married,None,Retired,98829,60,None,54,4.0,Online,15,258.08,North,86,Books,0.61,3
+CUST0649,36,Female,Widowed,Master's,Unemployed,21364,99,Silver,8,4.6,Online,24,403.75,East,98,Beauty,0.62,5
+CUST0650,64,Other,Single,Master's,Student,143867,62,Gold,78,1.6,Both,21,433.83,East,62,Books,0.53,5
+CUST0651,33,Other,Married,Master's,Student,146763,30,Platinum,51,2.6,Online,7,881.45,North,8,Electronics,0.76,1
+CUST0652,22,Other,Divorced,None,Retired,110598,93,Gold,1,7.5,In-store,29,961.3,East,45,Clothing,0.04,1
+CUST0653,52,Female,Married,None,Unemployed,72062,22,Silver,24,14.2,In-store,32,894.07,North,18,Electronics,0.94,5
+CUST0654,29,Male,Married,High School,Student,103302,75,Silver,12,9.9,In-store,32,721.99,South,88,Home & Living,0.1,2
+CUST0655,42,Female,Married,PhD,Student,78928,84,Platinum,97,4.2,Both,5,589.14,Central,60,Groceries,0.67,3
+CUST0656,69,Male,Divorced,Master's,Unemployed,56347,29,None,50,2.6,Online,4,692.37,West,60,Groceries,0.13,1
+CUST0657,38,Male,Widowed,PhD,Self-employed,18121,41,Silver,57,2.0,Both,22,939.72,North,2,Home & Living,0.88,2
+CUST0658,53,Female,Married,None,Student,98793,42,Silver,33,0.7,Online,18,257.5,North,66,Home & Living,0.51,5
+CUST0659,40,Male,Married,None,Professional,43164,98,Silver,34,0.6,Both,35,539.77,North,91,Groceries,0.08,4
+CUST0660,33,Male,Single,None,Unemployed,40491,65,Platinum,2,5.8,Both,17,692.71,South,14,Beauty,0.62,1
+CUST0661,56,Other,Divorced,PhD,Student,74222,31,Gold,58,1.5,Online,24,682.45,North,48,Clothing,0.01,4
+CUST0662,62,Male,Married,None,Retired,18748,30,Silver,69,1.5,Both,2,259.76,Central,56,Clothing,0.78,2
+CUST0663,59,Female,Divorced,High School,Professional,41553,18,Platinum,47,31.6,Online,13,590.86,Central,12,Clothing,0.65,3
+CUST0664,56,Female,Married,None,Student,131547,17,Silver,63,1.0,In-store,15,797.95,West,96,Home & Living,0.21,2
+CUST0665,31,Male,Widowed,Bachelor's,Professional,75380,38,None,18,0.8,In-store,5,480.33,South,92,Groceries,0.37,3
+CUST0666,48,Other,Widowed,PhD,Professional,59331,14,Platinum,66,0.5,In-store,3,795.37,Central,55,Beauty,0.01,2
+CUST0667,22,Other,Married,Bachelor's,Self-employed,135617,87,Silver,81,4.3,Both,37,366.28,East,28,Groceries,0.69,1
+CUST0668,52,Male,Widowed,None,Professional,54560,89,Platinum,72,4.9,In-store,37,939.37,East,89,Groceries,0.32,1
+CUST0669,40,Male,Married,High School,Self-employed,68865,79,Silver,75,2.3,Online,37,538.59,East,4,Beauty,0.57,4
+CUST0670,46,Female,Widowed,Master's,Unemployed,90910,56,Gold,4,3.8,In-store,3,599.99,North,90,Electronics,0.96,2
+CUST0671,60,Male,Single,None,Self-employed,92986,22,Silver,66,7.8,In-store,35,41.05,North,36,Beauty,0.3,2
+CUST0672,28,Other,Single,High School,Retired,25068,67,Platinum,10,8.5,Both,23,178.57,East,50,Electronics,0.99,4
+CUST0673,35,Male,Single,PhD,Student,69460,56,None,93,15.8,Online,28,636.6,West,3,Books,0.63,5
+CUST0674,64,Female,Divorced,Bachelor's,Unemployed,115766,19,None,67,8.7,Both,30,425.67,West,1,Electronics,0.24,2
+CUST0675,29,Female,Divorced,Bachelor's,Unemployed,61418,57,None,68,4.2,Both,18,513.08,North,17,Clothing,0.44,2
+CUST0676,26,Female,Single,Bachelor's,Retired,41206,44,Silver,0,1.0,Online,36,72.34,East,71,Clothing,0.74,2
+CUST0677,27,Female,Divorced,PhD,Self-employed,143180,98,Gold,90,0.5,Both,33,835.79,West,62,Beauty,0.45,5
+CUST0678,61,Female,Widowed,High School,Student,15287,35,Silver,91,0.3,Online,26,786.66,North,48,Clothing,0.07,1
+CUST0679,34,Male,Married,PhD,Self-employed,37337,1,None,62,5.5,In-store,48,193.5,East,62,Clothing,0.17,4
+CUST0680,55,Male,Married,Bachelor's,Professional,147233,52,Platinum,28,8.2,Online,40,637.99,South,69,Books,0.79,5
+CUST0681,24,Male,Married,None,Self-employed,115667,85,None,81,3.6,Online,17,820.13,East,19,Clothing,0.65,3
+CUST0682,63,Male,Single,Master's,Unemployed,105071,93,Platinum,11,0.3,Online,40,644.45,East,34,Home & Living,0.57,3
+CUST0683,30,Female,Divorced,PhD,Student,113064,70,Gold,76,3.8,Both,7,317.29,Central,99,Home & Living,0.17,5
+CUST0684,57,Other,Widowed,PhD,Self-employed,121511,37,Platinum,40,13.7,Online,8,659.55,Central,49,Home & Living,0.84,5
+CUST0685,59,Male,Widowed,High School,Student,18178,65,Silver,1,4.6,Online,31,218.36,South,80,Electronics,0.96,1
+CUST0686,26,Other,Single,High School,Student,46831,51,Silver,36,8.3,Online,12,325.07,South,47,Beauty,0.04,3
+CUST0687,67,Male,Widowed,PhD,Professional,148248,1,Silver,44,8.1,In-store,48,247.67,East,91,Beauty,0.08,4
+CUST0688,44,Male,Widowed,Bachelor's,Professional,118306,91,Platinum,79,13.5,Online,31,561.36,West,50,Groceries,0.88,2
+CUST0689,19,Other,Widowed,Master's,Unemployed,127025,21,Silver,47,7.4,Both,44,117.14,South,89,Books,0.82,2
+CUST0690,22,Female,Widowed,High School,Retired,105417,53,Silver,23,6.9,Online,19,933.98,East,26,Home & Living,0.62,1
+CUST0691,46,Male,Divorced,Bachelor's,Student,26984,16,Silver,98,1.3,Online,10,340.18,North,56,Home & Living,0.94,1
+CUST0692,54,Male,Widowed,None,Retired,104312,61,Gold,21,0.3,In-store,39,226.78,Central,78,Clothing,0.65,3
+CUST0693,55,Male,Married,High School,Unemployed,98291,54,Platinum,99,3.6,Online,12,501.58,West,14,Home & Living,0.22,4
+CUST0694,36,Other,Single,Bachelor's,Student,22135,40,Platinum,10,0.7,Both,20,284.23,East,78,Clothing,0.73,4
+CUST0695,25,Female,Divorced,Bachelor's,Student,15320,26,None,57,16.4,Online,37,539.56,North,25,Clothing,0.65,5
+CUST0696,65,Other,Widowed,Master's,Retired,103774,80,Platinum,45,1.7,Both,48,355.02,Central,100,Groceries,0.99,1
+CUST0697,62,Other,Divorced,Master's,Self-employed,113071,92,Gold,28,9.6,In-store,41,140.75,North,4,Electronics,0.21,2
+CUST0698,18,Female,Widowed,None,Professional,124863,65,Platinum,34,2.5,Online,7,273.24,East,79,Clothing,0.6,2
+CUST0699,39,Other,Married,Bachelor's,Self-employed,56777,100,Gold,14,2.0,In-store,14,444.06,South,32,Clothing,0.78,3
+CUST0700,69,Female,Single,Bachelor's,Retired,61250,74,Gold,59,13.7,Online,11,39.99,Central,82,Beauty,0.34,2
+CUST0701,34,Male,Widowed,Master's,Professional,88034,64,Platinum,94,2.3,Both,7,772.94,North,78,Groceries,0.38,4
+CUST0702,24,Female,Widowed,High School,Self-employed,119940,43,None,41,2.5,In-store,29,625.61,South,65,Clothing,0.89,4
+CUST0703,42,Male,Widowed,High School,Professional,55130,17,Silver,42,0.6,Online,10,605.35,West,61,Books,0.4,1
+CUST0704,62,Other,Widowed,PhD,Student,148609,59,Silver,79,5.6,Both,29,550.59,East,20,Electronics,0.62,3
+CUST0705,21,Other,Single,Master's,Self-employed,30216,23,Platinum,73,1.7,In-store,9,594.41,East,74,Books,0.89,2
+CUST0706,53,Male,Single,PhD,Professional,99149,7,Platinum,48,4.4,Online,36,935.31,Central,10,Home & Living,0.21,1
+CUST0707,23,Other,Married,Master's,Professional,18009,44,Gold,63,4.5,In-store,48,18.48,North,88,Electronics,0.98,5
+CUST0708,48,Female,Single,None,Professional,104904,53,Platinum,31,6.4,Online,10,57.32,West,34,Home & Living,0.7,5
+CUST0709,36,Male,Widowed,Bachelor's,Self-employed,30029,71,Gold,63,6.8,Both,19,199.58,Central,61,Beauty,0.5,2
+CUST0710,61,Other,Married,None,Unemployed,117171,79,None,1,3.6,Both,31,175.63,Central,92,Clothing,0.43,2
+CUST0711,56,Male,Married,Master's,Self-employed,129456,34,Platinum,23,2.0,In-store,17,189.38,North,27,Groceries,0.95,2
+CUST0712,44,Female,Married,Bachelor's,Retired,77559,46,Silver,86,9.1,In-store,9,675.22,West,40,Books,0.21,4
+CUST0713,27,Female,Widowed,High School,Self-employed,79892,68,Silver,65,1.9,Online,45,464.89,North,65,Home & Living,0.31,2
+CUST0714,43,Other,Divorced,High School,Professional,85409,78,Platinum,37,3.5,Both,33,991.86,East,33,Clothing,0.31,5
+CUST0715,36,Female,Widowed,PhD,Student,48065,78,Gold,30,2.6,Online,34,234.62,South,68,Books,0.29,2
+CUST0716,56,Male,Single,Master's,Self-employed,135544,16,Silver,25,9.7,Both,45,317.72,East,71,Books,0.47,3
+CUST0717,20,Female,Single,Master's,Self-employed,122340,71,Gold,28,2.8,In-store,24,984.4,East,9,Beauty,0.99,5
+CUST0718,62,Male,Widowed,High School,Professional,48783,96,Platinum,66,2.4,Online,9,833.44,Central,16,Beauty,0.89,3
+CUST0719,30,Male,Widowed,None,Student,49152,19,Platinum,77,5.9,Online,7,475.1,East,5,Home & Living,0.33,5
+CUST0720,67,Female,Married,Bachelor's,Student,73741,2,Silver,24,4.6,Both,16,559.05,West,98,Clothing,0.42,1
+CUST0721,45,Other,Widowed,None,Retired,122049,10,Platinum,47,0.6,Both,19,844.75,East,23,Groceries,0.67,5
+CUST0722,37,Female,Married,None,Self-employed,44092,50,None,64,3.5,Both,39,486.17,West,43,Home & Living,0.02,5
+CUST0723,45,Male,Single,High School,Student,101483,81,None,52,6.6,In-store,6,213.96,North,89,Books,0.82,3
+CUST0724,25,Male,Married,High School,Student,136585,12,Silver,66,24.2,Online,11,830.16,Central,57,Books,0.88,3
+CUST0725,58,Female,Widowed,High School,Unemployed,74754,70,None,89,5.0,Both,12,542.39,West,51,Electronics,0.86,5
+CUST0726,56,Other,Single,PhD,Unemployed,102592,22,Gold,17,2.3,In-store,42,161.51,East,13,Clothing,0.38,5
+CUST0727,18,Other,Divorced,None,Student,109543,32,Silver,8,1.3,Both,13,510.53,Central,24,Electronics,0.46,4
+CUST0728,20,Male,Married,Master's,Retired,58169,84,Silver,37,10.3,Online,12,419.07,Central,11,Beauty,0.01,1
+CUST0729,30,Male,Single,Bachelor's,Student,69745,1,Gold,86,8.4,Both,21,878.07,West,52,Groceries,0.4,1
+CUST0730,45,Other,Married,PhD,Professional,125168,54,None,20,1.3,Online,10,134.79,West,17,Home & Living,0.46,2
+CUST0731,66,Female,Single,Master's,Self-employed,128985,58,None,64,1.1,In-store,20,876.46,South,37,Books,0.91,5
+CUST0732,42,Male,Single,None,Retired,20543,70,None,20,6.3,In-store,36,517.09,South,13,Clothing,0.89,5
+CUST0733,50,Male,Married,High School,Professional,36067,83,Silver,26,1.9,Both,28,410.32,Central,62,Books,0.97,5
+CUST0734,55,Other,Divorced,None,Retired,66033,18,Silver,69,1.8,Online,24,170.35,South,91,Beauty,0.89,5
+CUST0735,23,Female,Single,Bachelor's,Professional,60256,6,None,43,0.8,Online,5,703.81,East,84,Electronics,0.01,1
+CUST0736,61,Other,Single,PhD,Self-employed,101803,45,Platinum,99,1.5,Online,37,927.54,North,97,Electronics,0.64,3
+CUST0737,62,Female,Single,PhD,Self-employed,133843,97,None,27,2.8,Both,12,381.62,Central,96,Home & Living,0.07,4
+CUST0738,49,Female,Divorced,Bachelor's,Unemployed,43992,23,Gold,44,6.6,Online,35,249.17,North,8,Clothing,0.27,3
+CUST0739,62,Female,Divorced,Master's,Professional,63803,23,Silver,16,2.0,Online,40,559.32,South,56,Beauty,0.58,3
+CUST0740,64,Male,Widowed,Master's,Unemployed,124975,26,Gold,39,2.0,Online,2,798.22,West,93,Clothing,0.7,1
+CUST0741,38,Other,Married,PhD,Professional,41270,77,Gold,2,1.7,Online,41,13.73,Central,83,Home & Living,0.65,4
+CUST0742,33,Other,Divorced,PhD,Unemployed,22452,7,Silver,75,3.3,Both,45,635.06,South,70,Beauty,0.05,5
+CUST0743,38,Female,Married,High School,Self-employed,56486,79,Platinum,75,1.0,Both,39,600.55,East,44,Beauty,0.1,1
+CUST0744,28,Male,Widowed,Master's,Retired,29859,44,None,65,3.3,Online,42,324.97,Central,60,Electronics,0.13,1
+CUST0745,54,Male,Married,Bachelor's,Unemployed,47083,27,Gold,45,6.1,Online,9,456.91,Central,41,Electronics,0.09,4
+CUST0746,53,Other,Divorced,Master's,Professional,82708,26,Silver,85,0.2,In-store,22,254.49,West,21,Electronics,0.18,2
+CUST0747,52,Male,Married,High School,Professional,126462,97,Gold,86,0.0,In-store,47,791.99,Central,86,Books,0.69,1
+CUST0748,36,Male,Divorced,PhD,Self-employed,108076,79,None,29,0.4,Online,5,638.19,West,42,Groceries,0.83,3
+CUST0749,37,Female,Married,PhD,Professional,34053,36,Platinum,68,3.8,Online,12,537.38,South,74,Electronics,0.41,3
+CUST0750,35,Male,Divorced,High School,Student,104745,55,Platinum,8,9.6,In-store,1,398.6,East,74,Groceries,0.69,5
+CUST0751,64,Female,Divorced,Bachelor's,Retired,84517,64,Platinum,84,0.0,In-store,44,298.47,East,29,Groceries,0.2,1
+CUST0752,58,Other,Married,PhD,Unemployed,94267,91,Silver,10,13.8,Online,22,824.51,Central,80,Clothing,0.97,5
+CUST0753,66,Male,Widowed,None,Retired,95077,57,Silver,68,0.6,Both,38,456.89,Central,65,Home & Living,0.35,1
+CUST0754,31,Other,Single,PhD,Self-employed,91623,69,Platinum,98,9.2,Both,19,506.43,South,17,Books,0.85,4
+CUST0755,32,Other,Widowed,None,Unemployed,146004,61,None,90,3.3,Online,16,525.62,West,30,Groceries,0.95,1
+CUST0756,48,Male,Married,High School,Unemployed,68687,2,None,65,5.4,Online,31,453.88,East,26,Books,0.86,2
+CUST0757,18,Male,Widowed,High School,Student,83312,55,Silver,87,3.6,In-store,3,263.53,West,53,Clothing,0.07,3
+CUST0758,20,Other,Divorced,PhD,Self-employed,122615,97,Platinum,30,3.2,In-store,23,129.14,South,19,Electronics,0.65,4
+CUST0759,33,Male,Single,Master's,Professional,145976,80,None,32,9.0,Both,42,107.55,East,53,Beauty,0.12,3
+CUST0760,40,Female,Married,None,Student,42564,87,None,38,7.1,Online,18,759.89,East,85,Groceries,0.01,5
+CUST0761,28,Female,Married,Bachelor's,Student,43835,38,None,93,3.3,In-store,26,231.29,North,17,Home & Living,0.05,4
+CUST0762,29,Male,Married,PhD,Retired,22697,80,Silver,45,0.6,Both,13,65.12,South,46,Beauty,0.92,2
+CUST0763,27,Other,Single,Bachelor's,Retired,95165,78,Platinum,36,0.6,Both,18,799.54,South,85,Clothing,0.91,3
+CUST0764,49,Male,Divorced,PhD,Retired,72823,29,Gold,91,8.1,Both,3,162.52,North,53,Books,0.23,1
+CUST0765,33,Male,Married,Master's,Student,24615,26,Platinum,59,3.8,In-store,23,628.89,West,64,Electronics,0.55,1
+CUST0766,25,Other,Widowed,Master's,Professional,145499,35,Platinum,30,3.3,In-store,3,345.26,North,45,Books,0.96,1
+CUST0767,55,Other,Married,Master's,Unemployed,91436,79,Silver,10,5.7,Online,25,135.22,South,49,Home & Living,0.5,4
+CUST0768,29,Female,Married,Master's,Retired,135562,67,None,86,9.8,Online,27,420.34,West,19,Groceries,0.39,2
+CUST0769,41,Other,Married,High School,Professional,86117,87,None,1,5.0,Both,44,24.66,East,71,Home & Living,0.48,2
+CUST0770,45,Female,Married,High School,Self-employed,49782,29,Silver,26,7.2,Both,27,842.63,North,81,Books,0.79,2
+CUST0771,25,Other,Divorced,None,Retired,93533,34,Silver,98,7.2,In-store,39,518.36,West,65,Books,0.48,3
+CUST0772,45,Male,Widowed,Bachelor's,Unemployed,87684,97,Silver,1,2.2,In-store,25,147.77,West,37,Beauty,0.78,4
+CUST0773,53,Female,Divorced,PhD,Self-employed,94558,41,Silver,20,1.6,Online,24,244.61,West,70,Home & Living,0.43,1
+CUST0774,43,Female,Widowed,PhD,Self-employed,96422,41,Silver,57,8.1,Online,8,453.5,North,26,Home & Living,0.25,3
+CUST0775,25,Female,Married,High School,Unemployed,21638,23,Gold,4,2.4,Online,9,196.98,East,2,Home & Living,0.33,2
+CUST0776,67,Male,Single,PhD,Retired,52419,71,Platinum,51,11.7,In-store,46,275.91,West,59,Electronics,0.08,1
+CUST0777,45,Male,Divorced,High School,Student,48377,3,Platinum,44,0.4,Both,37,539.04,North,96,Books,0.5,4
+CUST0778,45,Male,Single,None,Unemployed,121244,58,Platinum,84,0.3,Online,30,834.28,South,5,Clothing,0.15,5
+CUST0779,54,Male,Divorced,Bachelor's,Unemployed,38382,32,None,92,13.1,Online,19,407.82,North,37,Electronics,0.81,2
+CUST0780,58,Male,Married,None,Unemployed,82789,31,Gold,19,5.2,In-store,16,719.81,North,31,Electronics,0.42,2
+CUST0781,53,Female,Divorced,Master's,Self-employed,125634,82,Platinum,60,2.4,Online,24,877.92,North,76,Electronics,0.77,2
+CUST0782,44,Male,Married,Master's,Professional,146936,43,None,37,7.0,Both,44,224.14,West,99,Beauty,0.95,2
+CUST0783,34,Female,Divorced,Master's,Student,114572,7,Gold,19,5.6,In-store,21,809.12,North,94,Clothing,0.85,1
+CUST0784,26,Male,Married,None,Retired,138664,1,Gold,24,3.8,Online,36,759.83,South,48,Home & Living,0.95,4
+CUST0785,50,Other,Married,PhD,Retired,125674,61,None,1,0.5,Online,40,363.37,West,6,Beauty,0.57,3
+CUST0786,37,Female,Widowed,Bachelor's,Professional,118533,14,Gold,31,8.4,In-store,39,989.62,South,15,Books,0.17,1
+CUST0787,30,Other,Married,Master's,Unemployed,96845,52,None,25,10.1,In-store,47,269.95,Central,15,Groceries,0.94,4
+CUST0788,45,Female,Widowed,Master's,Student,84590,96,Platinum,69,0.9,Online,6,262.26,North,61,Beauty,0.87,3
+CUST0789,65,Other,Married,Master's,Retired,142775,6,None,40,9.5,Both,5,774.54,West,16,Groceries,0.86,2
+CUST0790,46,Male,Single,Bachelor's,Retired,81471,10,Gold,66,10.5,In-store,14,440.31,West,20,Books,0.69,4
+CUST0791,30,Male,Married,Master's,Unemployed,58298,71,Platinum,96,4.0,Both,45,337.49,North,77,Clothing,0.62,2
+CUST0792,63,Male,Single,Bachelor's,Professional,63924,90,Platinum,0,5.3,Online,42,186.88,East,44,Groceries,0.01,4
+CUST0793,52,Female,Single,Master's,Student,24726,98,Silver,50,2.4,Both,4,767.68,East,42,Electronics,0.75,5
+CUST0794,23,Other,Married,None,Professional,55542,30,Silver,4,1.7,Online,8,788.46,South,46,Beauty,0.09,2
+CUST0795,35,Male,Single,None,Professional,49753,100,Gold,12,6.4,Online,24,570.9,North,95,Groceries,0.26,2
+CUST0796,68,Other,Widowed,Bachelor's,Student,94788,21,None,18,9.9,Online,11,957.74,North,34,Books,0.55,2
+CUST0797,22,Other,Divorced,None,Student,36316,60,None,11,5.3,Online,17,324.98,Central,64,Electronics,0.45,1
+CUST0798,64,Male,Married,Bachelor's,Retired,99698,81,Gold,47,3.6,Both,21,227.42,East,29,Groceries,0.02,3
+CUST0799,42,Male,Single,None,Retired,30960,97,Platinum,24,0.9,Online,26,680.69,East,3,Books,0.82,2
+CUST0800,19,Other,Married,None,Student,45791,74,Gold,56,0.3,Online,43,760.82,North,9,Clothing,0.88,2
+CUST0801,27,Male,Widowed,Bachelor's,Self-employed,40216,63,Gold,34,3.0,Both,48,232.66,South,75,Books,0.68,1
+CUST0802,47,Male,Married,PhD,Retired,79427,42,Platinum,75,0.3,In-store,44,85.84,North,75,Clothing,0.54,1
+CUST0803,67,Male,Married,None,Self-employed,127470,51,None,93,4.2,Both,45,812.41,South,25,Electronics,0.96,5
+CUST0804,62,Female,Single,Master's,Student,88290,64,Gold,4,2.4,Both,27,976.74,East,86,Books,0.12,4
+CUST0805,22,Other,Widowed,PhD,Retired,62014,76,None,97,7.1,Both,16,648.23,Central,42,Home & Living,0.74,2
+CUST0806,50,Other,Divorced,Bachelor's,Professional,65519,56,Gold,21,1.8,Online,26,285.09,West,46,Beauty,0.13,4
+CUST0807,18,Female,Divorced,PhD,Student,19042,80,Platinum,76,4.5,Online,33,996.71,East,73,Home & Living,0.38,1
+CUST0808,35,Other,Single,High School,Unemployed,64052,41,Platinum,56,3.9,Online,31,894.33,South,84,Home & Living,0.59,1
+CUST0809,49,Male,Married,High School,Self-employed,29389,32,Silver,46,0.0,In-store,48,518.25,North,59,Home & Living,0.74,5
+CUST0810,64,Other,Single,None,Student,110961,15,Platinum,53,0.4,Online,47,827.07,East,21,Beauty,0.0,3
+CUST0811,66,Male,Single,None,Student,83111,62,Silver,2,1.7,In-store,6,817.66,Central,74,Home & Living,0.26,1
+CUST0812,28,Female,Single,Master's,Retired,120058,27,Gold,52,10.7,Online,44,935.45,South,22,Clothing,0.54,2
+CUST0813,38,Male,Married,PhD,Retired,108715,28,None,83,0.8,Both,8,842.51,North,29,Books,0.53,5
+CUST0814,43,Other,Widowed,High School,Retired,65733,81,Platinum,30,6.2,Online,7,647.24,West,63,Electronics,0.64,3
+CUST0815,42,Other,Single,None,Unemployed,49754,64,Platinum,68,18.1,In-store,34,613.21,South,73,Home & Living,0.3,5
+CUST0816,39,Other,Married,PhD,Retired,100886,59,Platinum,87,7.8,In-store,44,472.68,North,61,Home & Living,0.54,1
+CUST0817,44,Female,Widowed,None,Student,104524,58,Gold,32,1.4,Online,14,630.22,West,64,Electronics,0.19,3
+CUST0818,66,Female,Single,None,Retired,96006,2,Silver,71,11.9,Both,16,797.26,North,69,Electronics,0.19,4
+CUST0819,30,Other,Divorced,High School,Professional,39704,36,Gold,87,0.5,Online,43,969.35,West,40,Home & Living,0.58,3
+CUST0820,50,Male,Widowed,High School,Retired,109913,71,None,49,3.2,Online,9,472.61,West,75,Clothing,0.69,2
+CUST0821,51,Female,Single,None,Unemployed,109108,13,Gold,83,10.9,Online,10,577.92,West,1,Electronics,0.12,4
+CUST0822,58,Other,Widowed,Bachelor's,Professional,22493,15,None,15,5.1,Both,17,450.36,North,65,Books,0.12,4
+CUST0823,52,Other,Widowed,None,Student,84639,89,Platinum,75,2.7,In-store,12,671.8,West,62,Books,0.57,2
+CUST0824,18,Female,Widowed,None,Student,69383,87,None,76,1.7,Both,6,633.62,South,54,Clothing,0.27,4
+CUST0825,38,Female,Widowed,Master's,Self-employed,149066,60,None,38,2.4,In-store,19,27.66,Central,60,Beauty,0.39,1
+CUST0826,65,Female,Widowed,Master's,Professional,62234,22,Silver,88,3.6,In-store,43,545.75,Central,46,Groceries,0.4,3
+CUST0827,23,Male,Widowed,Master's,Self-employed,143674,63,None,45,1.9,In-store,41,97.6,West,5,Clothing,0.18,3
+CUST0828,45,Male,Single,Bachelor's,Professional,20594,90,None,95,17.4,Both,29,36.12,Central,22,Home & Living,0.0,2
+CUST0829,34,Other,Divorced,Bachelor's,Professional,22371,97,Gold,87,13.5,Online,6,793.29,Central,90,Groceries,0.85,1
+CUST0830,22,Female,Married,None,Unemployed,62315,75,Platinum,46,10.2,Online,25,266.06,West,53,Home & Living,0.72,4
+CUST0831,48,Male,Widowed,Master's,Self-employed,142251,74,Gold,43,2.7,Online,24,347.25,West,70,Books,0.69,3
+CUST0832,22,Female,Married,Bachelor's,Unemployed,94526,25,Gold,8,5.9,Online,25,73.44,South,32,Electronics,0.55,3
+CUST0833,55,Other,Single,High School,Professional,101005,48,Platinum,86,11.7,Online,16,187.71,East,11,Home & Living,0.7,3
+CUST0834,20,Male,Widowed,None,Student,120573,43,Platinum,49,9.5,Both,16,767.95,North,10,Books,0.94,3
+CUST0835,40,Male,Divorced,PhD,Professional,72514,38,None,76,2.7,Both,6,498.6,West,39,Clothing,0.67,5
+CUST0836,54,Male,Married,None,Unemployed,90986,41,None,59,0.6,Both,37,881.86,West,98,Home & Living,0.27,2
+CUST0837,54,Other,Widowed,PhD,Self-employed,100959,45,Silver,95,0.4,Both,21,403.27,Central,31,Books,0.57,4
+CUST0838,27,Female,Single,Master's,Self-employed,17035,88,Gold,14,4.3,Both,4,276.01,South,12,Electronics,0.44,4
+CUST0839,27,Male,Divorced,PhD,Unemployed,124767,40,Platinum,35,5.1,Both,34,354.12,Central,80,Home & Living,0.56,2
+CUST0840,36,Other,Married,Master's,Self-employed,32241,97,None,62,9.5,Both,28,715.64,West,38,Beauty,0.52,1
+CUST0841,34,Female,Married,High School,Retired,67975,17,Platinum,68,1.7,Online,38,559.46,West,67,Books,0.86,2
+CUST0842,38,Other,Widowed,PhD,Student,71396,88,None,85,0.9,In-store,41,905.15,Central,66,Home & Living,0.65,3
+CUST0843,31,Female,Divorced,None,Student,133920,57,Silver,79,2.4,Both,28,606.15,West,52,Electronics,0.19,3
+CUST0844,26,Other,Divorced,Master's,Student,101226,2,Silver,40,2.2,In-store,17,498.09,East,5,Home & Living,0.06,2
+CUST0845,63,Female,Divorced,None,Self-employed,99719,96,Platinum,73,0.7,Both,14,787.9,North,11,Home & Living,0.42,2
+CUST0846,18,Male,Divorced,Bachelor's,Self-employed,78014,62,Silver,23,5.6,Both,7,948.06,North,25,Beauty,0.02,4
+CUST0847,68,Female,Single,Master's,Professional,54346,88,Platinum,81,3.6,Online,22,362.29,North,35,Books,0.32,4
+CUST0848,62,Other,Divorced,PhD,Professional,85411,9,None,48,6.4,In-store,1,257.38,East,35,Groceries,0.37,5
+CUST0849,30,Other,Married,Master's,Student,91441,68,Gold,17,2.2,Online,29,620.06,West,22,Home & Living,0.38,5
+CUST0850,21,Female,Married,None,Retired,61121,81,Silver,6,2.0,Online,31,503.88,Central,37,Groceries,0.98,3
+CUST0851,18,Male,Single,High School,Professional,75197,17,None,3,3.2,In-store,30,989.29,South,86,Clothing,0.3,5
+CUST0852,66,Male,Married,Master's,Professional,99577,50,Gold,89,10.5,Online,15,467.74,West,55,Home & Living,0.27,5
+CUST0853,57,Female,Married,PhD,Self-employed,109634,94,Gold,68,0.2,Both,18,83.59,East,75,Groceries,0.13,1
+CUST0854,49,Female,Divorced,Bachelor's,Retired,115211,40,Gold,59,8.2,Both,35,977.6,East,96,Clothing,0.51,2
+CUST0855,51,Other,Married,High School,Student,16466,58,None,54,2.3,Both,30,845.15,North,99,Beauty,0.15,4
+CUST0856,45,Male,Single,Bachelor's,Professional,45771,75,None,15,9.6,Both,34,186.47,West,95,Books,0.62,5
+CUST0857,48,Female,Divorced,Master's,Retired,98886,85,Platinum,98,8.1,Both,42,905.56,North,72,Home & Living,0.16,4
+CUST0858,25,Male,Widowed,None,Retired,80911,21,Gold,89,2.1,Online,11,347.26,South,64,Books,0.58,5
+CUST0859,56,Female,Divorced,None,Student,103422,18,Gold,81,5.9,Online,27,383.34,North,20,Clothing,0.83,5
+CUST0860,43,Female,Single,PhD,Retired,88369,55,Gold,28,0.9,Both,24,907.33,South,98,Books,0.04,3
+CUST0861,51,Male,Divorced,None,Retired,16893,29,Platinum,22,11.3,Both,35,534.81,East,4,Books,0.42,1
+CUST0862,20,Female,Divorced,High School,Retired,45573,24,Gold,13,2.6,Online,39,146.39,North,18,Electronics,0.46,2
+CUST0863,67,Female,Single,None,Professional,111907,74,None,78,3.0,In-store,8,375.37,North,51,Clothing,0.79,2
+CUST0864,29,Other,Divorced,PhD,Student,114956,17,Gold,48,6.1,Online,18,724.88,Central,68,Books,0.47,3
+CUST0865,18,Female,Single,Master's,Retired,133580,18,Silver,32,8.6,Online,13,182.44,East,20,Groceries,0.57,3
+CUST0866,61,Female,Single,Master's,Retired,106404,42,None,24,1.3,Online,45,594.33,Central,9,Clothing,0.79,2
+CUST0867,22,Female,Widowed,None,Professional,72724,84,Platinum,20,5.4,Online,24,698.32,South,80,Electronics,0.56,2
+CUST0868,47,Other,Married,Bachelor's,Student,101133,45,Gold,16,2.5,Online,23,350.42,South,26,Home & Living,0.36,1
+CUST0869,47,Male,Married,Master's,Self-employed,30989,82,Silver,22,2.3,In-store,12,696.94,East,25,Beauty,0.09,5
+CUST0870,34,Other,Divorced,None,Professional,43931,17,Platinum,56,5.9,Both,49,885.37,South,68,Books,0.73,1
+CUST0871,65,Other,Divorced,PhD,Student,24290,73,Platinum,80,2.4,Both,30,477.4,East,41,Groceries,0.87,2
+CUST0872,64,Male,Widowed,None,Retired,136136,14,None,57,2.1,In-store,31,389.08,South,59,Electronics,0.97,5
+CUST0873,40,Other,Widowed,Master's,Student,94878,49,Platinum,13,9.0,Both,28,258.65,West,45,Clothing,0.93,2
+CUST0874,32,Male,Widowed,PhD,Student,105477,29,Platinum,92,0.5,Both,22,608.16,North,41,Beauty,0.8,1
+CUST0875,54,Other,Single,None,Student,141299,95,Platinum,19,5.6,Both,44,881.05,West,38,Beauty,0.64,1
+CUST0876,38,Male,Widowed,High School,Self-employed,120686,4,Platinum,29,1.4,In-store,28,331.41,East,19,Books,0.78,1
+CUST0877,31,Female,Widowed,PhD,Student,122286,82,Gold,18,0.1,In-store,13,402.27,East,14,Electronics,0.43,5
+CUST0878,19,Other,Divorced,High School,Self-employed,55475,20,Gold,52,0.9,Both,25,412.56,West,21,Electronics,0.59,4
+CUST0879,28,Other,Widowed,Bachelor's,Retired,97666,47,Gold,55,4.7,Both,44,565.2,North,15,Groceries,0.35,4
+CUST0880,68,Other,Single,PhD,Self-employed,111622,9,Gold,76,6.2,Both,46,236.12,North,3,Home & Living,0.33,2
+CUST0881,56,Other,Single,High School,Retired,122573,77,Silver,81,0.1,Online,7,823.99,Central,37,Home & Living,0.76,5
+CUST0882,55,Female,Divorced,Master's,Retired,61546,79,Gold,22,0.2,Online,45,302.65,South,46,Home & Living,0.45,3
+CUST0883,51,Other,Widowed,Master's,Self-employed,22008,27,Platinum,61,11.6,Online,6,708.31,Central,16,Beauty,0.21,4
+CUST0884,55,Female,Widowed,Bachelor's,Professional,63291,15,Gold,32,0.4,In-store,24,518.08,North,14,Beauty,0.2,5
+CUST0885,67,Female,Single,PhD,Unemployed,51386,92,Gold,17,11.2,Both,19,590.04,West,9,Clothing,0.86,5
+CUST0886,51,Female,Widowed,PhD,Student,105909,19,None,72,1.3,In-store,19,187.81,South,7,Beauty,0.68,4
+CUST0887,35,Female,Widowed,PhD,Unemployed,48040,90,Platinum,32,6.7,In-store,36,737.67,West,14,Beauty,0.55,5
+CUST0888,47,Male,Widowed,Bachelor's,Student,75354,52,Gold,31,1.9,In-store,9,196.73,Central,6,Electronics,0.4,5
+CUST0889,32,Male,Married,PhD,Student,93543,26,Gold,60,9.8,Both,48,122.34,East,85,Clothing,0.43,4
+CUST0890,44,Other,Divorced,Master's,Retired,33157,89,Gold,53,6.0,Online,36,551.21,West,15,Electronics,0.06,1
+CUST0891,68,Male,Married,High School,Student,50315,26,Silver,16,2.6,Both,38,712.2,Central,52,Groceries,0.45,2
+CUST0892,51,Male,Divorced,Master's,Student,50932,26,Gold,18,0.4,Both,40,59.54,Central,72,Groceries,0.8,3
+CUST0893,69,Other,Single,Master's,Self-employed,128880,46,None,90,6.6,In-store,29,78.7,Central,34,Clothing,0.39,2
+CUST0894,55,Other,Widowed,High School,Unemployed,147018,92,Platinum,69,4.8,In-store,24,804.65,East,1,Clothing,0.38,1
+CUST0895,50,Other,Divorced,Master's,Self-employed,29693,49,Platinum,98,0.0,In-store,48,810.94,East,96,Beauty,0.02,1
+CUST0896,41,Male,Married,Bachelor's,Student,42241,82,Gold,33,0.0,Online,5,252.85,East,69,Groceries,0.46,5
+CUST0897,32,Male,Widowed,High School,Retired,130194,96,Gold,83,8.3,Online,42,619.08,South,94,Books,0.03,2
+CUST0898,47,Other,Single,Master's,Self-employed,110790,53,Gold,24,1.5,Online,45,448.75,East,86,Home & Living,0.57,1
+CUST0899,59,Female,Divorced,None,Self-employed,87255,3,Platinum,67,5.1,Both,26,636.37,East,20,Beauty,0.51,2
+CUST0900,68,Other,Divorced,Master's,Professional,26350,66,Platinum,73,3.0,In-store,14,864.25,East,80,Home & Living,0.84,1
+CUST0901,34,Female,Divorced,Bachelor's,Student,71809,97,Silver,73,10.0,Both,39,89.06,West,7,Groceries,0.58,3
+CUST0902,22,Female,Widowed,PhD,Retired,116894,42,None,87,12.4,Online,29,780.2,East,7,Home & Living,0.32,1
+CUST0903,46,Other,Married,Master's,Self-employed,112557,19,Silver,84,28.7,In-store,6,498.1,South,50,Books,0.52,2
+CUST0904,21,Other,Married,PhD,Self-employed,46728,17,None,10,0.8,Online,7,568.49,Central,2,Books,0.7,5
+CUST0905,27,Other,Divorced,None,Retired,32576,33,Silver,90,9.9,In-store,37,657.39,West,47,Electronics,0.09,2
+CUST0906,34,Male,Single,Master's,Student,98384,76,Platinum,15,1.5,In-store,18,923.4,North,14,Clothing,0.62,4
+CUST0907,27,Female,Single,High School,Professional,15390,49,Silver,89,4.5,Both,23,66.15,East,31,Home & Living,0.92,2
+CUST0908,34,Male,Married,PhD,Self-employed,60436,56,None,60,3.5,Both,44,39.18,Central,50,Books,0.3,3
+CUST0909,37,Male,Single,None,Professional,26569,63,Gold,93,0.1,Online,38,186.48,Central,61,Clothing,0.63,3
+CUST0910,41,Other,Married,High School,Unemployed,37490,3,None,79,13.5,Both,1,986.58,West,41,Clothing,0.82,3
+CUST0911,22,Male,Divorced,High School,Student,60875,49,Gold,6,0.4,Both,4,717.93,North,14,Electronics,0.51,1
+CUST0912,51,Other,Married,High School,Unemployed,20867,55,Platinum,15,5.8,Both,44,618.49,South,5,Clothing,0.72,3
+CUST0913,23,Female,Married,High School,Unemployed,95820,26,None,98,7.7,In-store,47,56.57,Central,75,Clothing,0.31,2
+CUST0914,19,Other,Divorced,Master's,Unemployed,114515,99,Silver,15,7.9,Both,35,880.32,Central,5,Beauty,0.31,5
+CUST0915,30,Male,Single,Master's,Student,24121,72,None,39,0.7,Online,23,814.63,Central,64,Groceries,0.67,3
+CUST0916,60,Male,Married,Master's,Student,16539,52,Gold,11,3.0,In-store,27,668.15,Central,29,Electronics,0.71,2
+CUST0917,60,Other,Married,None,Retired,142402,100,Platinum,34,8.8,In-store,26,345.74,West,75,Electronics,0.94,1
+CUST0918,65,Other,Divorced,None,Professional,89229,7,Silver,20,1.8,Both,8,79.8,North,5,Home & Living,0.22,1
+CUST0919,28,Male,Single,None,Professional,65435,46,None,49,3.2,In-store,43,584.24,Central,96,Clothing,0.47,5
+CUST0920,68,Female,Married,Bachelor's,Retired,78965,46,Gold,42,1.6,Online,16,722.5,South,36,Home & Living,0.25,5
+CUST0921,64,Female,Divorced,None,Retired,126048,100,Silver,99,3.1,Online,41,103.3,South,79,Beauty,0.08,2
+CUST0922,40,Other,Married,Master's,Unemployed,111444,16,Platinum,16,10.9,In-store,3,637.43,East,19,Books,0.4,5
+CUST0923,33,Female,Widowed,Master's,Retired,84922,24,Silver,31,3.0,Both,32,293.5,Central,64,Clothing,0.37,5
+CUST0924,48,Male,Divorced,Bachelor's,Self-employed,112799,61,Platinum,40,4.1,Both,5,766.6,Central,22,Books,0.27,1
+CUST0925,28,Other,Single,Bachelor's,Professional,108948,54,Silver,5,2.6,In-store,20,544.22,Central,34,Groceries,0.3,2
+CUST0926,33,Male,Single,None,Retired,23947,62,None,87,3.1,Online,14,137.75,Central,56,Beauty,0.36,5
+CUST0927,25,Male,Single,PhD,Self-employed,63785,1,Gold,26,0.1,In-store,32,531.25,Central,17,Clothing,0.99,2
+CUST0928,21,Female,Single,Bachelor's,Self-employed,134963,49,None,19,1.7,Both,26,401.78,South,76,Home & Living,0.78,3
+CUST0929,57,Other,Married,High School,Self-employed,15507,25,None,24,2.9,Both,47,188.55,North,89,Home & Living,0.07,1
+CUST0930,21,Other,Married,Master's,Self-employed,26618,10,Platinum,65,5.0,In-store,6,843.1,North,56,Clothing,0.87,1
+CUST0931,42,Female,Single,High School,Unemployed,89286,80,Platinum,8,3.0,Online,36,20.92,East,17,Home & Living,0.63,1
+CUST0932,20,Male,Single,Master's,Self-employed,31122,16,Platinum,91,2.1,In-store,40,319.01,South,74,Clothing,0.89,4
+CUST0933,49,Male,Single,Master's,Unemployed,124598,58,None,52,2.5,Online,5,22.47,Central,92,Electronics,0.34,2
+CUST0934,20,Male,Married,Bachelor's,Unemployed,101436,72,Silver,60,1.4,Online,13,105.05,North,82,Home & Living,0.46,3
+CUST0935,44,Male,Single,Bachelor's,Self-employed,43633,29,Silver,37,12.9,In-store,32,304.13,West,18,Clothing,0.9,5
+CUST0936,46,Other,Single,High School,Professional,39495,92,None,2,3.7,In-store,16,63.73,West,45,Clothing,0.27,3
+CUST0937,49,Other,Widowed,Master's,Self-employed,79550,6,None,83,0.1,Online,1,600.66,West,96,Home & Living,0.92,2
+CUST0938,67,Female,Widowed,High School,Self-employed,51483,16,Gold,69,0.1,Online,13,95.99,Central,78,Electronics,0.83,1
+CUST0939,68,Female,Single,PhD,Self-employed,128181,20,Platinum,96,18.1,Online,11,704.7,Central,56,Home & Living,0.98,4
+CUST0940,36,Other,Divorced,High School,Professional,49069,80,Platinum,54,1.3,Online,8,62.12,East,80,Clothing,0.32,2
+CUST0941,38,Other,Single,None,Student,134873,71,None,0,8.2,Both,25,68.72,East,50,Electronics,0.24,2
+CUST0942,22,Male,Widowed,High School,Student,131843,78,None,69,0.3,In-store,40,312.27,East,58,Books,0.33,5
+CUST0943,35,Male,Divorced,None,Unemployed,86947,43,Silver,44,12.7,Online,32,897.61,West,18,Groceries,0.95,3
+CUST0944,45,Female,Divorced,None,Unemployed,110761,26,None,97,10.4,In-store,24,644.98,Central,80,Home & Living,0.33,3
+CUST0945,59,Other,Single,None,Professional,128753,90,Silver,46,4.2,Online,28,772.43,West,81,Beauty,0.57,5
+CUST0946,39,Female,Widowed,PhD,Retired,146764,78,None,78,0.0,In-store,14,150.14,East,7,Clothing,0.4,4
+CUST0947,38,Other,Widowed,High School,Student,43926,71,Gold,25,1.5,In-store,45,835.78,Central,76,Electronics,0.4,1
+CUST0948,23,Male,Divorced,High School,Unemployed,114782,33,Gold,13,2.6,Online,3,18.06,South,98,Electronics,0.19,1
+CUST0949,18,Female,Single,PhD,Student,119700,26,Silver,53,3.1,Online,36,220.93,North,10,Books,0.54,4
+CUST0950,22,Female,Married,Master's,Professional,88984,45,Platinum,70,1.8,In-store,27,619.93,North,69,Home & Living,0.85,5
+CUST0951,58,Other,Married,Bachelor's,Professional,64593,84,Gold,45,0.2,In-store,20,381.49,East,85,Beauty,0.05,2
+CUST0952,29,Male,Widowed,High School,Retired,90609,63,Silver,30,4.5,In-store,47,984.35,West,3,Electronics,0.89,3
+CUST0953,43,Female,Married,Bachelor's,Retired,20209,67,None,87,3.7,Both,15,40.04,South,83,Books,0.67,2
+CUST0954,63,Male,Widowed,PhD,Professional,141700,52,None,58,1.7,Online,27,998.61,Central,44,Clothing,0.62,3
+CUST0955,51,Female,Widowed,Master's,Unemployed,101597,68,Silver,94,0.2,Both,45,627.39,West,99,Books,0.63,2
+CUST0956,66,Male,Widowed,Master's,Student,22211,26,Platinum,28,26.1,Both,41,563.12,East,70,Home & Living,0.3,5
+CUST0957,31,Other,Married,Master's,Self-employed,24927,75,Silver,95,3.3,Online,28,68.92,West,14,Books,0.42,5
+CUST0958,43,Female,Widowed,PhD,Retired,132333,2,Silver,16,7.1,Online,25,280.6,East,4,Electronics,0.8,4
+CUST0959,62,Female,Divorced,None,Self-employed,91382,14,Gold,13,3.0,Both,42,925.42,North,18,Electronics,0.31,2
+CUST0960,44,Male,Single,None,Unemployed,118780,30,Silver,35,0.2,Online,44,360.7,North,93,Groceries,0.47,2
+CUST0961,26,Male,Single,Bachelor's,Retired,55696,49,Silver,57,1.9,In-store,46,665.04,West,99,Books,0.02,4
+CUST0962,43,Female,Widowed,None,Self-employed,82616,12,None,23,1.9,In-store,33,999.5,South,52,Clothing,0.73,4
+CUST0963,64,Other,Single,None,Unemployed,65013,90,Gold,62,9.1,Both,46,270.44,Central,38,Beauty,0.42,5
+CUST0964,39,Male,Married,Master's,Student,64556,44,None,90,5.3,Both,14,580.32,East,80,Beauty,0.53,5
+CUST0965,64,Male,Married,Master's,Unemployed,138723,33,None,24,1.6,Online,8,699.47,Central,20,Home & Living,0.11,2
+CUST0966,47,Male,Single,Bachelor's,Retired,41140,13,Platinum,58,17.2,Online,48,172.98,North,88,Groceries,0.99,5
+CUST0967,60,Female,Married,High School,Professional,16184,78,Platinum,31,1.9,Both,14,157.19,South,99,Books,0.3,5
+CUST0968,65,Female,Single,Bachelor's,Student,126361,88,Gold,81,31.7,Both,1,461.74,South,44,Clothing,0.63,2
+CUST0969,34,Female,Single,Bachelor's,Self-employed,20606,98,Gold,17,27.8,In-store,16,391.95,Central,51,Groceries,0.58,4
+CUST0970,43,Female,Single,PhD,Retired,31555,26,Platinum,36,1.1,In-store,18,717.07,North,19,Electronics,0.79,2
+CUST0971,53,Other,Widowed,PhD,Professional,105385,21,Platinum,25,1.9,Online,7,78.81,Central,68,Home & Living,0.29,1
+CUST0972,18,Other,Single,Bachelor's,Unemployed,73502,28,Platinum,8,3.3,In-store,15,972.44,West,97,Books,0.76,2
+CUST0973,25,Female,Widowed,Bachelor's,Professional,118844,48,Platinum,98,5.5,Online,24,24.13,South,66,Beauty,0.38,1
+CUST0974,66,Other,Single,Bachelor's,Retired,106321,100,Platinum,63,3.8,Online,49,605.3,South,13,Clothing,0.41,2
+CUST0975,52,Male,Single,None,Retired,64056,40,None,71,17.4,Online,13,567.01,West,62,Electronics,0.67,1
+CUST0976,69,Male,Single,PhD,Professional,113234,66,Gold,19,6.4,In-store,9,143.37,North,61,Groceries,0.78,1
+CUST0977,32,Male,Married,Bachelor's,Unemployed,56850,73,None,53,1.2,Both,15,159.41,South,30,Home & Living,0.67,2
+CUST0978,64,Female,Widowed,Master's,Professional,42843,87,None,85,0.6,Both,35,794.75,East,98,Groceries,0.9,5
+CUST0979,39,Male,Widowed,Master's,Retired,77320,79,Silver,82,5.8,In-store,24,888.69,East,30,Beauty,0.29,3
+CUST0980,31,Other,Single,None,Retired,44793,77,None,29,0.9,Both,33,290.19,North,51,Groceries,0.9,5
+CUST0981,43,Female,Single,None,Self-employed,34627,23,Platinum,52,7.7,Online,16,443.58,West,88,Clothing,0.13,1
+CUST0982,45,Other,Married,High School,Self-employed,76822,81,Platinum,91,1.9,Both,8,361.45,Central,48,Electronics,0.66,2
+CUST0983,40,Male,Married,High School,Student,70798,48,Silver,98,2.0,In-store,29,81.82,North,33,Books,0.55,2
+CUST0984,31,Male,Married,High School,Retired,90318,2,Silver,62,0.1,Both,23,676.47,Central,74,Clothing,0.49,2
+CUST0985,41,Male,Widowed,None,Self-employed,119186,84,Silver,10,6.0,Online,45,826.94,North,82,Beauty,0.31,2
+CUST0986,19,Female,Widowed,None,Professional,102902,20,Silver,30,0.6,Online,31,311.83,East,19,Home & Living,0.5,3
+CUST0987,62,Other,Widowed,None,Unemployed,86334,59,Silver,48,7.4,In-store,40,990.27,West,71,Beauty,0.16,4
+CUST0988,43,Female,Single,Master's,Professional,121719,46,None,99,3.4,In-store,49,85.09,East,57,Beauty,0.37,1
+CUST0989,31,Female,Widowed,None,Unemployed,138099,3,Silver,93,7.7,In-store,14,665.17,West,19,Groceries,0.1,3
+CUST0990,68,Male,Divorced,Master's,Self-employed,27720,55,None,86,4.4,Online,30,453.75,Central,88,Home & Living,0.57,5
+CUST0991,24,Female,Divorced,High School,Student,72608,12,Gold,18,0.4,Both,39,452.14,North,79,Clothing,0.1,4
+CUST0992,20,Female,Married,High School,Professional,122449,40,Silver,11,7.3,Both,27,463.07,South,41,Beauty,0.16,4
+CUST0993,64,Male,Widowed,High School,Professional,117828,66,Silver,14,0.4,In-store,47,266.09,South,42,Clothing,0.09,2
+CUST0994,40,Female,Divorced,Bachelor's,Professional,141613,100,None,30,3.3,Both,16,718.41,West,87,Books,0.38,3
+CUST0995,63,Male,Married,Bachelor's,Unemployed,87095,78,Gold,42,0.9,Both,6,724.36,West,52,Groceries,0.84,5
+CUST0996,60,Male,Widowed,PhD,Self-employed,120924,16,None,36,7.0,In-store,33,289.57,East,4,Clothing,0.91,2
+CUST0997,64,Male,Single,PhD,Professional,111452,83,None,78,12.1,In-store,44,836.95,South,4,Home & Living,0.07,2
+CUST0998,62,Male,Divorced,PhD,Professional,102593,34,Silver,28,4.0,Online,18,323.68,East,5,Beauty,0.63,1
+CUST0999,35,Female,Single,Bachelor's,Student,121975,44,Platinum,25,3.7,Online,16,727.84,Central,41,Books,0.68,4
+CUST1000,55,Male,Widowed,Bachelor's,Student,92242,6,Platinum,1,7.2,Online,12,129.79,South,87,Home & Living,0.53,5
